@@ -1,0 +1,937 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "git-extras"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "squash"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "summary"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "line-summary"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "effort"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "authors"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "changelog"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "commits-since"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "count"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "create-branch"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "delete-branch"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "delete-submodule"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "delete-tag"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "delete-merged-branches"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "fresh-branch"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "guilt"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "merge-into"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "graft"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "alias"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ignore"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "info"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "fork"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "release"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "contrib"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "repl"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "undo"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "gh-pages"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "scp"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "setup"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "touch"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "obliterate"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "feature|refactor|bug|chore"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "local-commits"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "archive-file"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "missing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "lock"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "locked"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "unlock"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "reset-file"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "pr"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "root"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "delta"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "merge-repo"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "psykorebase"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "gitflow (AVH Edition)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "flow init"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "flow feature"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "flow release"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "flow hotfix"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "flow support"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-up"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "hub"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "clone"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "remote add"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "fetch"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "cherry-pick"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "am"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "apply"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "fork"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "pull-request"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "checkout"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "merge"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "create"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "init"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "push"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "browse"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "compare"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "submodule"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "ci-status"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-deploy"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-cal"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-hooks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-imerge"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "imerge start"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "imerge merge"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "imerge rebase"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "imerge continue"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "imerge finish"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "imerge diagram"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "imerge list"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "imerge init"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "imerge record"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "imerge autofill"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "imerge simplify"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "imerge remove"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "imerge reparent"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-issue"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Initialize issue repository"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Create a new issue (opens editor window)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "List open issues"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Add an issue comment (opens editor window)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Add tag to an issue"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Add two more tags"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Remove a tag"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Assign issue"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Add issue watcher"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "List issues tagged as gui"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Push issues repository to a server"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Clone issues repository from server"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "List open issues"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Create new issue"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Push changes to server"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Show issue added on the other host"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Show issue and comments"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Pull in remote changes (on the original host)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "List open issues"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sub-command auto-completion"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Issue Sha auto-completion"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-lfs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-now"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-plus"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "multi"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "relation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "old-branches"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "recent"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-test"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "legit"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "branches"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "sync"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "switch"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "publish"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "unpublish"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-when-merged"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-playback"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-branch-status"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-open"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-my"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-ink"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "recursive-blame"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "hyper-blame"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-word-blame"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-fire"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Git Town"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git hack"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git sync"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git new-pull-request"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git ship"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-blame-someone-else"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "diff-so-fancy"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-stats"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-secret"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git secret init"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git secret tell"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git secret add"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git secret list"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git secret hide"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git secret reveal"
+    },
+    {
+      "description": "TBD - PR Welcome!",
+      "items": [],
+      "title": "git-secrets"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-fixup"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-recent"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-interactive-rebase-tool"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-fiddle"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-user"
+    },
+    {
+      "description": "TBD - PR Welcome!",
+      "items": [],
+      "title": "gitsome"
+    },
+    {
+      "description": "TBD - PR Welcome!",
+      "items": [],
+      "title": "git-hound"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-recall"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-standup"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "commitizen"
+    },
+    {
+      "description": "TBD - PR Welcome!",
+      "items": [],
+      "title": "git-fresh"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-fs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-url"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git url"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git guclone"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-signatures"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "signatures add --push"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "signatures verify"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "signatures verify --min-count 2"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "signatures show"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-profile"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "add a work profile"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "add a personal profile"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "list out our saved profiles"
+    },
+    {
+      "description": "Currently there will be no output in case of success",
+      "items": [],
+      "title": "set the current git repository user to the home profile"
+    },
+    {
+      "description": "TBD - PR Welcome!",
+      "items": [],
+      "title": "git-revise"
+    },
+    {
+      "description": "TBD - PR Welcome!",
+      "items": [],
+      "title": "filter-repo"
+    },
+    {
+      "description": "Interactive UI and fuzzy-search for Git branches.\n",
+      "items": [],
+      "title": "git-jump"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-project"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-branchcut"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Delete branches with string pattern"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Delete branches with day-offset"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "git-exfiltrate"
+    },
+    {
+      "description": "Assume a hypothetical project where you make changes to two software component folders in one feature-branch, you can use this tool to make that two branches with a preserved history for both.\nThe branch will be created with just the contents of from the feature-branch changes.",
+      "items": [],
+      "title": "Break apart large branches into smaller ones"
+    },
+    {
+      "description": "Collect and sum the directives found in commit messages.",
+      "items": [],
+      "title": "git-spend"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Filter by author, range, and more"
+    },
+    {
+      "description": "To the extent possible under law, Steve Mao has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T21:57:12.985Z",
+    "original_repository": "stevemao/awesome-git-addons",
+    "original_repository_sha": "a054ac3f39511f107004f0e2bb966b52ec28f498",
+    "enhanced_repository": "enhansome/enhansome-git-addons",
+    "enhanced_repository_description": null,
+    "title": "Awesome git addons with stars"
+  }
+}
