@@ -9,7 +9,7 @@ Something awesome happens!
 
 > *“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)*
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,761 | 🐛 100 | 📅 2026-06-30 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,110 | 🐛 100 | 📅 2026-06-30 list thing.
 
 **Note**: Certain commands may not function immediately after installation. You may need to run a post-install script or manually configure aliases for them to work correctly.
 
@@ -68,7 +68,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,761 |
 * [git-exfiltrate](#git-exfiltrate)
 * [git-spend](#git-spend)
 
-## [git-extras](https://github.com/tj/git-extras) ⭐ 18,096 | 🐛 98 | 🌐 Shell | 📅 2026-08-14
+## [git-extras](https://github.com/tj/git-extras) ⭐ 18,095 | 🐛 98 | 🌐 Shell | 📅 2026-08-14
 
 ### squash
 
@@ -584,7 +584,7 @@ master    fast-forwarding...
 returning to 4.0
 ```
 
-## [hub](https://github.com/github/hub) ⭐ 22,955 | 🐛 294 | 🌐 Go | 📅 2024-02-02
+## [hub](https://github.com/github/hub) ⭐ 22,956 | 🐛 294 | 🌐 Go | 📅 2024-02-02
 
 ### clone
 
@@ -777,7 +777,7 @@ pre-commit/bsd 	- Check for the BSD license.
 /GitHub/git-hooks/.githooks:
 ```
 
-## [git-imerge](https://github.com/mhagger/git-imerge) ⭐ 2,839 | 🐛 79 | 🌐 Python | 📅 2024-07-17
+## [git-imerge](https://github.com/mhagger/git-imerge) ⭐ 2,840 | 🐛 79 | 🌐 Python | 📅 2024-07-17
 
 ### imerge start
 
@@ -1111,7 +1111,7 @@ $ git issue show [Tab]
 e6a95c9 - New issue entered from the command line
 ```
 
-## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,422 | 🐛 482 | 🌐 Go | 📅 2026-08-07
+## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,425 | 🐛 483 | 🌐 Go | 📅 2026-08-07
 
 ```
 $ git lfs track "*.mp3"
@@ -1302,7 +1302,7 @@ $ git branch-status
  master    [current branch]                   [1 ahead of origin/master]
 ```
 
-## [git-open](https://github.com/paulirish/git-open) ⭐ 3,452 | 🐛 49 | 🌐 Shell | 📅 2026-05-25
+## [git-open](https://github.com/paulirish/git-open) ⭐ 3,453 | 🐛 49 | 🌐 Shell | 📅 2026-05-25
 
 ```
 $ git open
@@ -1438,7 +1438,7 @@ Branch fire-master-maochenyan@gmail.com-1451379915 set up to track remote branch
 Leave building!
 ```
 
-## [Git Town](https://github.com/git-town/git-town) ⭐ 3,362 | 🐛 43 | 🌐 Gherkin | 📅 2026-07-26
+## [Git Town](https://github.com/git-town/git-town) ⭐ 3,363 | 🐛 43 | 🌐 Gherkin | 📅 2026-07-26
 
 ### git hack
 
@@ -1529,7 +1529,7 @@ $ git blame-someone-else 'Steve Mao <maochenyan@gmail.com>' 2efb4e3a061a2e8aaa58
 Steve Mao  is now the author of 2efb4e3. You're officially an asshole.
 ```
 
-## [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,082 | 🐛 4 | 🌐 Perl | 📅 2026-08-11
+## [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,080 | 🐛 4 | 🌐 Perl | 📅 2026-08-15
 
 ```
 $ git dsf
@@ -1541,7 +1541,7 @@ $ git dsf
 
 ![](http://i.imgur.com/PpM0i3v.png)
 
-## [git-secret](https://github.com/sobolevn/git-secret) ⭐ 4,035 | 🐛 246 | 🌐 Shell | 📅 2026-08-11
+## [git-secret](https://github.com/sobolevn/git-secret) ⭐ 4,035 | 🐛 247 | 🌐 Shell | 📅 2026-08-11
 
 ### git secret init
 
@@ -1731,7 +1731,7 @@ a1097116 - add versioning to readme (14 hours ago) <Steve Mao>
 6b6e7465 - add test coverage (15 hours ago) <Steve Mao>
 ```
 
-## [commitizen](https://github.com/commitizen/cz-cli) ⭐ 17,503 | 🐛 194 | 🌐 JavaScript | 📅 2026-08-11
+## [commitizen](https://github.com/commitizen/cz-cli) ⭐ 17,502 | 🐛 194 | 🌐 JavaScript | 📅 2026-08-11
 
 ```
 $ git cz
@@ -1903,11 +1903,11 @@ $ git profile use work
 
 Currently there will be no output in case of success
 
-## [git-revise](https://github.com/mystor/git-revise) ⭐ 859 | 🐛 45 | 🌐 Python | 📅 2026-06-19
+## [git-revise](https://github.com/mystor/git-revise) ⭐ 860 | 🐛 45 | 🌐 Python | 📅 2026-06-19
 
 TBD - PR Welcome!
 
-## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,130 | 🐛 98 | 🌐 Python | 📅 2026-07-09
+## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,134 | 🐛 98 | 🌐 Python | 📅 2026-07-09
 
 TBD - PR Welcome!
 
@@ -2036,4 +2036,4 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
