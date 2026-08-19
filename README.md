@@ -9,7 +9,7 @@ Something awesome happens!
 
 > *“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)*
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,662 | 🐛 102 | 📅 2026-08-18 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,800 | 🐛 102 | 📅 2026-08-18 list thing.
 
 **Note**: Certain commands may not function immediately after installation. You may need to run a post-install script or manually configure aliases for them to work correctly.
 
@@ -68,7 +68,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,662 |
 * [git-exfiltrate](#git-exfiltrate)
 * [git-spend](#git-spend)
 
-## [git-extras](https://github.com/tj/git-extras) ⭐ 18,094 | 🐛 96 | 🌐 Shell | 📅 2026-08-17
+## [git-extras](https://github.com/tj/git-extras) ⭐ 18,094 | 🐛 97 | 🌐 Shell | 📅 2026-08-17
 
 ### squash
 
@@ -1111,7 +1111,7 @@ $ git issue show [Tab]
 e6a95c9 - New issue entered from the command line
 ```
 
-## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,431 | 🐛 484 | 🌐 Go | 📅 2026-08-07
+## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,432 | 🐛 486 | 🌐 Go | 📅 2026-08-07
 
 ```
 $ git lfs track "*.mp3"
@@ -1438,7 +1438,7 @@ Branch fire-master-maochenyan@gmail.com-1451379915 set up to track remote branch
 Leave building!
 ```
 
-## [Git Town](https://github.com/git-town/git-town) ⭐ 3,363 | 🐛 46 | 🌐 Gherkin | 📅 2026-07-26
+## [Git Town](https://github.com/git-town/git-town) ⭐ 3,363 | 🐛 47 | 🌐 Gherkin | 📅 2026-07-26
 
 ### git hack
 
@@ -1529,7 +1529,7 @@ $ git blame-someone-else 'Steve Mao <maochenyan@gmail.com>' 2efb4e3a061a2e8aaa58
 Steve Mao  is now the author of 2efb4e3. You're officially an asshole.
 ```
 
-## [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,081 | 🐛 5 | 🌐 Perl | 📅 2026-08-18
+## [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,081 | 🐛 4 | 🌐 Perl | 📅 2026-08-19
 
 ```
 $ git dsf
@@ -1689,7 +1689,7 @@ Saved Profiles:
   work: Dr. Henry Jekyll <henry@jekyll.com>
 ```
 
-## [gitsome](https://github.com/donnemartin/gitsome) ⭐ 7,683 | 🐛 66 | 🌐 Python | 📅 2024-02-08
+## [gitsome](https://github.com/donnemartin/gitsome) ⭐ 7,684 | 🐛 66 | 🌐 Python | 📅 2024-02-08
 
 TBD - PR Welcome!
 
@@ -1907,7 +1907,7 @@ Currently there will be no output in case of success
 
 TBD - PR Welcome!
 
-## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,151 | 🐛 98 | 🌐 Python | 📅 2026-07-09
+## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,154 | 🐛 98 | 🌐 Python | 📅 2026-07-09
 
 TBD - PR Welcome!
 
