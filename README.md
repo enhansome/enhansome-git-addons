@@ -9,7 +9,7 @@ Something awesome happens!
 
 > *“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)*
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,512 | 🐛 106 | 📅 2026-08-21 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,596 | 🐛 106 | 📅 2026-08-21 list thing.
 
 **Note**: Certain commands may not function immediately after installation. You may need to run a post-install script or manually configure aliases for them to work correctly.
 
@@ -777,7 +777,7 @@ pre-commit/bsd 	- Check for the BSD license.
 /GitHub/git-hooks/.githooks:
 ```
 
-## [git-imerge](https://github.com/mhagger/git-imerge) ⭐ 2,842 | 🐛 79 | 🌐 Python | 📅 2024-07-17
+## [git-imerge](https://github.com/mhagger/git-imerge) ⭐ 2,843 | 🐛 79 | 🌐 Python | 📅 2024-07-17
 
 ### imerge start
 
@@ -1111,7 +1111,7 @@ $ git issue show [Tab]
 e6a95c9 - New issue entered from the command line
 ```
 
-## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,438 | 🐛 484 | 🌐 Go | 📅 2026-08-19
+## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,439 | 🐛 483 | 🌐 Go | 📅 2026-08-24
 
 ```
 $ git lfs track "*.mp3"
@@ -1541,7 +1541,7 @@ $ git dsf
 
 ![](http://i.imgur.com/PpM0i3v.png)
 
-## [git-secret](https://github.com/sobolevn/git-secret) ⭐ 4,038 | 🐛 256 | 🌐 Shell | 📅 2026-08-11
+## [git-secret](https://github.com/sobolevn/git-secret) ⭐ 4,038 | 🐛 152 | 🌐 Shell | 📅 2026-08-24
 
 ### git secret init
 
@@ -1731,7 +1731,7 @@ a1097116 - add versioning to readme (14 hours ago) <Steve Mao>
 6b6e7465 - add test coverage (15 hours ago) <Steve Mao>
 ```
 
-## [commitizen](https://github.com/commitizen/cz-cli) ⭐ 17,501 | 🐛 194 | 🌐 JavaScript | 📅 2026-08-11
+## [commitizen](https://github.com/commitizen/cz-cli) ⭐ 17,501 | 🐛 193 | 🌐 JavaScript | 📅 2026-08-11
 
 ```
 $ git cz
