@@ -9,7 +9,7 @@ Something awesome happens!
 
 > *“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)*
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,288 | 🐛 106 | 📅 2026-08-21 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,512 | 🐛 106 | 📅 2026-08-21 list thing.
 
 **Note**: Certain commands may not function immediately after installation. You may need to run a post-install script or manually configure aliases for them to work correctly.
 
@@ -777,7 +777,7 @@ pre-commit/bsd 	- Check for the BSD license.
 /GitHub/git-hooks/.githooks:
 ```
 
-## [git-imerge](https://github.com/mhagger/git-imerge) ⭐ 2,841 | 🐛 79 | 🌐 Python | 📅 2024-07-17
+## [git-imerge](https://github.com/mhagger/git-imerge) ⭐ 2,842 | 🐛 79 | 🌐 Python | 📅 2024-07-17
 
 ### imerge start
 
@@ -1111,7 +1111,7 @@ $ git issue show [Tab]
 e6a95c9 - New issue entered from the command line
 ```
 
-## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,436 | 🐛 483 | 🌐 Go | 📅 2026-08-19
+## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,438 | 🐛 484 | 🌐 Go | 📅 2026-08-19
 
 ```
 $ git lfs track "*.mp3"
@@ -1522,14 +1522,14 @@ open <url to create pull request for current branch>
 Deleted branch my-branch (was 55cb0f7).
 ```
 
-## [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,703 | 🐛 21 | 🌐 Shell | 📅 2023-12-04
+## [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,702 | 🐛 21 | 🌐 Shell | 📅 2023-12-04
 
 ```
 $ git blame-someone-else 'Steve Mao <maochenyan@gmail.com>' 2efb4e3a061a2e8aaa58033e9c13c3e0e5fcde4b
 Steve Mao  is now the author of 2efb4e3. You're officially an asshole.
 ```
 
-## [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,081 | 🐛 4 | 🌐 Perl | 📅 2026-08-19
+## [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,083 | 🐛 4 | 🌐 Perl | 📅 2026-08-19
 
 ```
 $ git dsf
@@ -1537,11 +1537,11 @@ $ git dsf
 
 ![diff-highlight vs diff-so-fancy](https://user-images.githubusercontent.com/3429760/32387617-44c873da-c082-11e7-829c-6160b853adcb.png)
 
-## [git-stats](https://github.com/IonicaBizau/git-stats) ⭐ 6,602 | 🐛 5 | 🌐 HTML | 📅 2025-11-09
+## [git-stats](https://github.com/IonicaBizau/git-stats) ⭐ 6,603 | 🐛 5 | 🌐 HTML | 📅 2025-11-09
 
 ![](http://i.imgur.com/PpM0i3v.png)
 
-## [git-secret](https://github.com/sobolevn/git-secret) ⭐ 4,038 | 🐛 255 | 🌐 Shell | 📅 2026-08-11
+## [git-secret](https://github.com/sobolevn/git-secret) ⭐ 4,038 | 🐛 256 | 🌐 Shell | 📅 2026-08-11
 
 ### git secret init
 
@@ -1697,7 +1697,7 @@ TBD - PR Welcome!
 
 TBD - PR Welcome!
 
-## [git-recall](https://github.com/Fakerr/git-recall) ⭐ 2,113 | 🐛 7 | 🌐 Shell | 📅 2021-04-22
+## [git-recall](https://github.com/Fakerr/git-recall) ⭐ 2,112 | 🐛 7 | 🌐 Shell | 📅 2021-04-22
 
 ![](https://camo.githubusercontent.com/eb306717b95724c33dd0de91faa535a4818cc7d0/687474703a2f2f696d6775722e636f6d2f7a7577324c71572e676966)
 
@@ -1716,7 +1716,7 @@ $ git recall -f
 # Fetch commits beforehand.
 ```
 
-## [git-standup](https://github.com/kamranahmedse/git-standup) ⭐ 7,847 | 🐛 24 | 🌐 Shell | 📅 2025-07-07
+## [git-standup](https://github.com/kamranahmedse/git-standup) ⭐ 7,848 | 🐛 24 | 🌐 Shell | 📅 2025-07-07
 
 ```
 $ git standup
@@ -1731,7 +1731,7 @@ a1097116 - add versioning to readme (14 hours ago) <Steve Mao>
 6b6e7465 - add test coverage (15 hours ago) <Steve Mao>
 ```
 
-## [commitizen](https://github.com/commitizen/cz-cli) ⭐ 17,502 | 🐛 194 | 🌐 JavaScript | 📅 2026-08-11
+## [commitizen](https://github.com/commitizen/cz-cli) ⭐ 17,501 | 🐛 194 | 🌐 JavaScript | 📅 2026-08-11
 
 ```
 $ git cz
@@ -1907,7 +1907,7 @@ Currently there will be no output in case of success
 
 TBD - PR Welcome!
 
-## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,172 | 🐛 99 | 🌐 Python | 📅 2026-07-09
+## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,179 | 🐛 98 | 🌐 Python | 📅 2026-07-09
 
 TBD - PR Welcome!
 
@@ -2036,4 +2036,4 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

@@ -1,7 +1,728 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 817345,
+            "language": "Shell",
+            "last_commit": "2026-08-17T06:15:49Z",
+            "owner": "tj",
+            "repo": "git-extras",
+            "stars": 18096
+          },
+          "title": "git-extras"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 3028781,
+            "language": "Shell",
+            "last_commit": "2023-08-17T11:06:35Z",
+            "owner": "petervanderdoes",
+            "repo": "gitflow-avh",
+            "stars": 5451
+          },
+          "title": "gitflow (AVH Edition)"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 329035,
+            "language": "Ruby",
+            "last_commit": "2017-11-07T22:48:59Z",
+            "owner": "aanand",
+            "repo": "git-up",
+            "stars": 2586
+          },
+          "title": "git-up"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 401025,
+            "language": "Go",
+            "last_commit": "2024-02-02T21:00:44Z",
+            "owner": "mislav",
+            "repo": "hub",
+            "stars": 22956
+          },
+          "title": "hub"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 300994,
+            "language": "Ruby",
+            "last_commit": "2019-03-22T16:13:56Z",
+            "owner": "mislav",
+            "repo": "git-deploy",
+            "stars": 2082
+          },
+          "title": "git-deploy"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 13012881,
+            "language": "Perl",
+            "last_commit": "2017-02-01T04:38:36Z",
+            "owner": "k4rthik",
+            "repo": "git-cal",
+            "stars": 1124
+          },
+          "title": "git-cal"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 26200089,
+            "language": "Go",
+            "last_commit": "2026-04-21T01:36:34Z",
+            "owner": "git-hooks",
+            "repo": "git-hooks",
+            "stars": 418
+          },
+          "title": "git-hooks"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 9786109,
+            "language": "Python",
+            "last_commit": "2024-07-17T00:05:59Z",
+            "owner": "mhagger",
+            "repo": "git-imerge",
+            "stars": 2842
+          },
+          "title": "git-imerge"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 50618223,
+            "language": "Shell",
+            "last_commit": "2025-10-17T21:01:53Z",
+            "owner": "dspinellis",
+            "repo": "git-issue",
+            "stars": 883
+          },
+          "title": "git-issue"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 13021798,
+            "language": "Go",
+            "last_commit": "2026-08-19T23:20:37Z",
+            "owner": "git-lfs",
+            "repo": "git-lfs",
+            "stars": 14438
+          },
+          "title": "git-lfs"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 2286576,
+            "language": "Shell",
+            "last_commit": "2022-04-06T06:22:43Z",
+            "owner": "iwata",
+            "repo": "git-now",
+            "stars": 188
+          },
+          "title": "git-now"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 10282661,
+            "language": "Python",
+            "last_commit": "2026-06-14T14:09:14Z",
+            "owner": "tkrajina",
+            "repo": "git-plus",
+            "stars": 202
+          },
+          "title": "git-plus"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 28965711,
+            "language": "Shell",
+            "last_commit": "2023-01-04T13:15:20Z",
+            "owner": "spotify",
+            "repo": "git-test",
+            "stars": 203
+          },
+          "title": "git-test"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1951148,
+            "language": "Python",
+            "last_commit": "2023-10-09T19:32:28Z",
+            "owner": "frostming",
+            "repo": "legit",
+            "stars": 5685
+          },
+          "title": "legit"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 7972465,
+            "language": "Python",
+            "last_commit": "2023-08-06T07:59:58Z",
+            "owner": "mhagger",
+            "repo": "git-when-merged",
+            "stars": 465
+          },
+          "title": "git-when-merged"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 4442101,
+            "language": "Python",
+            "last_commit": "2026-08-19T01:08:55Z",
+            "owner": "jianli",
+            "repo": "git-playback",
+            "stars": 134
+          },
+          "title": "git-playback"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 17658349,
+            "language": "Shell",
+            "last_commit": "2025-07-13T19:35:50Z",
+            "owner": "alexdavid",
+            "repo": "git-branch-status",
+            "stars": 32
+          },
+          "title": "git-branch-status"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 29791986,
+            "language": "Shell",
+            "last_commit": "2026-05-25T01:06:15Z",
+            "owner": "paulirish",
+            "repo": "git-open",
+            "stars": 3457
+          },
+          "title": "git-open"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 31733373,
+            "language": "Shell",
+            "last_commit": "2020-04-03T06:48:14Z",
+            "owner": "davidosomething",
+            "repo": "git-my",
+            "stars": 36
+          },
+          "title": "git-my"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 23458257,
+            "language": "Shell",
+            "last_commit": "2020-04-03T06:49:24Z",
+            "owner": "davidosomething",
+            "repo": "git-ink",
+            "stars": 19
+          },
+          "title": "git-ink"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 13587859,
+            "language": "JavaScript",
+            "last_commit": "2016-03-08T22:01:01Z",
+            "owner": "scottgonzalez",
+            "repo": "recursive-blame",
+            "stars": 69
+          },
+          "title": "recursive-blame"
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 43623432,
+            "language": "Shell",
+            "last_commit": "2022-03-02T04:42:43Z",
+            "owner": "qw3rtman",
+            "repo": "git-fire",
+            "stars": 4545
+          },
+          "title": "git-fire"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 19825320,
+            "language": "Gherkin",
+            "last_commit": "2026-07-26T19:22:59Z",
+            "owner": "git-town",
+            "repo": "git-town",
+            "stars": 3366
+          },
+          "title": "Git Town"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 51184395,
+            "language": "Shell",
+            "last_commit": "2023-12-04T14:41:06Z",
+            "owner": "jayphelps",
+            "repo": "git-blame-someone-else",
+            "stars": 11702
+          },
+          "title": "git-blame-someone-else"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 51071818,
+            "language": "Perl",
+            "last_commit": "2026-08-19T18:49:08Z",
+            "owner": "so-fancy",
+            "repo": "diff-so-fancy",
+            "stars": 18083
+          },
+          "title": "diff-so-fancy"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 30538630,
+            "language": "HTML",
+            "last_commit": "2025-11-09T13:43:06Z",
+            "owner": "IonicaBizau",
+            "repo": "git-stats",
+            "stars": 6603
+          },
+          "title": "git-stats"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 51747445,
+            "language": "Shell",
+            "last_commit": "2026-08-11T14:12:25Z",
+            "owner": "sobolevn",
+            "repo": "git-secret",
+            "stars": 4038
+          },
+          "title": "git-secret"
+        },
+        {
+          "children": [],
+          "description": "Prevents you from committing passwords and other sensitive information to a git repository.\nTBD - PR Welcome!",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 39160150,
+            "language": "Shell",
+            "last_commit": "2025-09-17T20:31:20Z",
+            "owner": "awslabs",
+            "repo": "git-secrets",
+            "stars": 13379
+          },
+          "title": "git-secrets"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 10815432,
+            "language": "Shell",
+            "last_commit": "2025-01-07T12:40:58Z",
+            "owner": "keis",
+            "repo": "git-fixup",
+            "stars": 261
+          },
+          "title": "git-fixup"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 65041439,
+            "language": "Shell",
+            "last_commit": "2026-06-04T19:18:43Z",
+            "owner": "paulirish",
+            "repo": "git-recent",
+            "stars": 1031
+          },
+          "title": "git-recent"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 77011446,
+            "language": "Rust",
+            "last_commit": "2026-04-14T03:27:00Z",
+            "owner": "MitMaro",
+            "repo": "git-interactive-rebase-tool",
+            "stars": 1884
+          },
+          "title": "git-interactive-rebase-tool"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 67255362,
+            "language": "Shell",
+            "last_commit": "2017-05-06T21:45:07Z",
+            "owner": "felixSchl",
+            "repo": "git-fiddle",
+            "stars": 202
+          },
+          "title": "git-fiddle"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 63816673,
+            "language": "Go",
+            "last_commit": "2022-03-26T02:23:47Z",
+            "owner": "gesquive",
+            "repo": "git-user",
+            "stars": 50
+          },
+          "title": "git-user"
+        },
+        {
+          "children": [],
+          "description": "TBD - PR Welcome!",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 56897766,
+            "language": "Python",
+            "last_commit": "2024-02-08T10:27:14Z",
+            "owner": "donnemartin",
+            "repo": "gitsome",
+            "stars": 7687
+          },
+          "title": "gitsome"
+        },
+        {
+          "children": [],
+          "description": "TBD - PR Welcome!",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 45624104,
+            "language": "Go",
+            "last_commit": "2020-10-08T22:34:28Z",
+            "owner": "ezekg",
+            "repo": "git-hound",
+            "stars": 315
+          },
+          "title": "git-hound"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 78954825,
+            "language": "Shell",
+            "last_commit": "2021-04-22T21:42:18Z",
+            "owner": "Fakerr",
+            "repo": "git-recall",
+            "stars": 2112
+          },
+          "title": "git-recall"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 55859203,
+            "language": "Shell",
+            "last_commit": "2025-07-07T22:48:42Z",
+            "owner": "nilbuild",
+            "repo": "git-standup",
+            "stars": 7848
+          },
+          "title": "git-standup"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 34230966,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T23:42:06Z",
+            "owner": "commitizen",
+            "repo": "cz-cli",
+            "stars": 17501
+          },
+          "title": "commitizen"
+        },
+        {
+          "children": [],
+          "description": "TBD - PR Welcome!",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 40637960,
+            "language": "Shell",
+            "last_commit": "2026-04-06T15:14:45Z",
+            "owner": "imsky",
+            "repo": "git-fresh",
+            "stars": 512
+          },
+          "title": "git-fresh"
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 128689634,
+            "language": "Shell",
+            "last_commit": "2022-02-15T21:42:19Z",
+            "owner": "hashbang",
+            "repo": "git-signatures",
+            "stars": 155
+          },
+          "title": "git-signatures"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 183793451,
+            "language": "Go",
+            "last_commit": "2022-01-30T13:21:22Z",
+            "owner": "dm3ch",
+            "repo": "git-profile-manager",
+            "stars": 11
+          },
+          "title": "git-profile"
+        },
+        {
+          "children": [],
+          "description": "TBD - PR Welcome!",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 162235481,
+            "language": "Python",
+            "last_commit": "2026-06-19T15:44:51Z",
+            "owner": "mystor",
+            "repo": "git-revise",
+            "stars": 861
+          },
+          "title": "git-revise"
+        },
+        {
+          "children": [],
+          "description": "TBD - PR Welcome!",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 145584971,
+            "language": "Python",
+            "last_commit": "2026-07-09T22:09:49Z",
+            "owner": "newren",
+            "repo": "git-filter-repo",
+            "stars": 13179
+          },
+          "title": "filter-repo"
+        },
+        {
+          "children": [],
+          "description": "Interactive UI and fuzzy-search for Git branches.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 280176985,
+            "language": "TypeScript",
+            "last_commit": "2021-04-15T14:24:58Z",
+            "owner": "mykolaharmash",
+            "repo": "git-jump",
+            "stars": 215
+          },
+          "title": "git-jump"
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 328857026,
+            "language": "Go",
+            "last_commit": "2021-02-07T14:52:51Z",
+            "owner": "dlsrb6342",
+            "repo": "git-branchcut",
+            "stars": 8
+          },
+          "title": "git-branchcut"
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": "Collect and sum the directives found in commit messages.",
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 618670555,
+            "language": "Go",
+            "last_commit": "2024-04-06T18:19:26Z",
+            "owner": "Goutte",
+            "repo": "git-spend",
+            "stars": 15
+          },
+          "title": "git-spend"
+        }
+      ],
+      "title": "Overview"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T21:31:26.124Z",
+    "last_updated": "2026-08-24T14:09:48.302Z",
     "original_repository": "stevemao/awesome-git-addons",
     "original_repository_id": 41139077,
     "original_repository_sha": "a054ac3f39511f107004f0e2bb966b52ec28f498",
