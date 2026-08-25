@@ -14,7 +14,7 @@
             "last_commit": "2026-08-17T06:15:49Z",
             "owner": "tj",
             "repo": "git-extras",
-            "stars": 18097
+            "stars": 18098
           },
           "title": "git-extras"
         },
@@ -44,7 +44,7 @@
             "last_commit": "2017-11-07T22:48:59Z",
             "owner": "aanand",
             "repo": "git-up",
-            "stars": 2586
+            "stars": 2587
           },
           "title": "git-up"
         },
@@ -146,10 +146,10 @@
             "archived": false,
             "id": 13021798,
             "language": "Go",
-            "last_commit": "2026-08-24T15:59:43Z",
+            "last_commit": "2026-08-25T15:47:35Z",
             "owner": "git-lfs",
             "repo": "git-lfs",
-            "stars": 14439
+            "stars": 14444
           },
           "title": "git-lfs"
         },
@@ -269,7 +269,7 @@
             "last_commit": "2026-05-25T01:06:15Z",
             "owner": "paulirish",
             "repo": "git-open",
-            "stars": 3457
+            "stars": 3456
           },
           "title": "git-open"
         },
@@ -350,7 +350,7 @@
             "last_commit": "2026-07-26T19:22:59Z",
             "owner": "git-town",
             "repo": "git-town",
-            "stars": 3366
+            "stars": 3365
           },
           "title": "Git Town"
         },
@@ -560,7 +560,7 @@
             "last_commit": "2025-07-07T22:48:42Z",
             "owner": "nilbuild",
             "repo": "git-standup",
-            "stars": 7848
+            "stars": 7849
           },
           "title": "git-standup"
         },
@@ -656,7 +656,7 @@
             "last_commit": "2026-07-09T22:09:49Z",
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13181
+            "stars": 13180
           },
           "title": "filter-repo"
         },
@@ -722,7 +722,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:59:42.017Z",
+    "last_updated": "2026-08-25T21:38:09.776Z",
     "original_repository": "stevemao/awesome-git-addons",
     "original_repository_id": 41139077,
     "original_repository_sha": "a054ac3f39511f107004f0e2bb966b52ec28f498",
