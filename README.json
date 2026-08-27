@@ -59,7 +59,7 @@
             "last_commit": "2024-02-02T21:00:44Z",
             "owner": "mislav",
             "repo": "hub",
-            "stars": 22956
+            "stars": 22957
           },
           "title": "hub"
         },
@@ -146,10 +146,10 @@
             "archived": false,
             "id": 13021798,
             "language": "Go",
-            "last_commit": "2026-08-25T15:47:35Z",
+            "last_commit": "2026-08-26T06:26:54Z",
             "owner": "git-lfs",
             "repo": "git-lfs",
-            "stars": 14444
+            "stars": 14445
           },
           "title": "git-lfs"
         },
@@ -395,7 +395,7 @@
             "last_commit": "2025-11-09T13:43:06Z",
             "owner": "IonicaBizau",
             "repo": "git-stats",
-            "stars": 6603
+            "stars": 6602
           },
           "title": "git-stats"
         },
@@ -425,7 +425,7 @@
             "last_commit": "2025-09-17T20:31:20Z",
             "owner": "awslabs",
             "repo": "git-secrets",
-            "stars": 13379
+            "stars": 13380
           },
           "title": "git-secrets"
         },
@@ -455,7 +455,7 @@
             "last_commit": "2026-06-04T19:18:43Z",
             "owner": "paulirish",
             "repo": "git-recent",
-            "stars": 1031
+            "stars": 1032
           },
           "title": "git-recent"
         },
@@ -470,7 +470,7 @@
             "last_commit": "2026-04-14T03:27:00Z",
             "owner": "MitMaro",
             "repo": "git-interactive-rebase-tool",
-            "stars": 1884
+            "stars": 1883
           },
           "title": "git-interactive-rebase-tool"
         },
@@ -515,7 +515,7 @@
             "last_commit": "2024-02-08T10:27:14Z",
             "owner": "donnemartin",
             "repo": "gitsome",
-            "stars": 7687
+            "stars": 7688
           },
           "title": "gitsome"
         },
@@ -560,7 +560,7 @@
             "last_commit": "2025-07-07T22:48:42Z",
             "owner": "nilbuild",
             "repo": "git-standup",
-            "stars": 7849
+            "stars": 7848
           },
           "title": "git-standup"
         },
@@ -575,7 +575,7 @@
             "last_commit": "2026-08-11T23:42:06Z",
             "owner": "commitizen",
             "repo": "cz-cli",
-            "stars": 17501
+            "stars": 17498
           },
           "title": "commitizen"
         },
@@ -656,7 +656,7 @@
             "last_commit": "2026-07-09T22:09:49Z",
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13180
+            "stars": 13188
           },
           "title": "filter-repo"
         },
@@ -722,7 +722,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T21:38:09.776Z",
+    "last_updated": "2026-08-27T00:42:34.414Z",
     "original_repository": "stevemao/awesome-git-addons",
     "original_repository_id": 41139077,
     "original_repository_sha": "a054ac3f39511f107004f0e2bb966b52ec28f498",
