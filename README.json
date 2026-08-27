@@ -11,10 +11,10 @@
             "archived": false,
             "id": 817345,
             "language": "Shell",
-            "last_commit": "2026-08-17T06:15:49Z",
+            "last_commit": "2026-08-27T05:59:29Z",
             "owner": "tj",
             "repo": "git-extras",
-            "stars": 18098
+            "stars": 18097
           },
           "title": "git-extras"
         },
@@ -149,7 +149,7 @@
             "last_commit": "2026-08-26T06:26:54Z",
             "owner": "git-lfs",
             "repo": "git-lfs",
-            "stars": 14445
+            "stars": 14446
           },
           "title": "git-lfs"
         },
@@ -350,7 +350,7 @@
             "last_commit": "2026-07-26T19:22:59Z",
             "owner": "git-town",
             "repo": "git-town",
-            "stars": 3365
+            "stars": 3366
           },
           "title": "Git Town"
         },
@@ -365,7 +365,7 @@
             "last_commit": "2023-12-04T14:41:06Z",
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11703
+            "stars": 11704
           },
           "title": "git-blame-someone-else"
         },
@@ -380,7 +380,7 @@
             "last_commit": "2026-08-19T18:49:08Z",
             "owner": "so-fancy",
             "repo": "diff-so-fancy",
-            "stars": 18082
+            "stars": 18081
           },
           "title": "diff-so-fancy"
         },
@@ -425,7 +425,7 @@
             "last_commit": "2025-09-17T20:31:20Z",
             "owner": "awslabs",
             "repo": "git-secrets",
-            "stars": 13380
+            "stars": 13382
           },
           "title": "git-secrets"
         },
@@ -575,7 +575,7 @@
             "last_commit": "2026-08-11T23:42:06Z",
             "owner": "commitizen",
             "repo": "cz-cli",
-            "stars": 17498
+            "stars": 17499
           },
           "title": "commitizen"
         },
@@ -656,7 +656,7 @@
             "last_commit": "2026-07-09T22:09:49Z",
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13188
+            "stars": 13190
           },
           "title": "filter-repo"
         },
@@ -722,9 +722,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:42:34.414Z",
-    "original_repository": "stevemao/awesome-git-addons",
-    "original_repository_id": 41139077,
+    "last_updated": "2026-08-27T11:43:14.122Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 41139077,
+      "language": null,
+      "last_commit": "2024-10-15T07:18:48Z",
+      "owner": "stevemao",
+      "repo": "awesome-git-addons",
+      "stars": 2195
+    },
     "original_repository_sha": "a054ac3f39511f107004f0e2bb966b52ec28f498",
     "enhanced_repository": "enhansome/enhansome-git-addons",
     "enhanced_repository_description": null,
