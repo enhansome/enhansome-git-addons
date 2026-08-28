@@ -16,7 +16,8 @@
             "repo": "git-extras",
             "stars": 18097
           },
-          "title": "git-extras"
+          "title": "git-extras",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -31,7 +32,8 @@
             "repo": "gitflow-avh",
             "stars": 5451
           },
-          "title": "gitflow (AVH Edition)"
+          "title": "gitflow (AVH Edition)",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -46,7 +48,8 @@
             "repo": "git-up",
             "stars": 2587
           },
-          "title": "git-up"
+          "title": "git-up",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -61,7 +64,8 @@
             "repo": "hub",
             "stars": 22957
           },
-          "title": "hub"
+          "title": "hub",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -76,7 +80,8 @@
             "repo": "git-deploy",
             "stars": 2082
           },
-          "title": "git-deploy"
+          "title": "git-deploy",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -91,7 +96,8 @@
             "repo": "git-cal",
             "stars": 1124
           },
-          "title": "git-cal"
+          "title": "git-cal",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -106,7 +112,8 @@
             "repo": "git-hooks",
             "stars": 418
           },
-          "title": "git-hooks"
+          "title": "git-hooks",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -121,7 +128,8 @@
             "repo": "git-imerge",
             "stars": 2844
           },
-          "title": "git-imerge"
+          "title": "git-imerge",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -136,7 +144,8 @@
             "repo": "git-issue",
             "stars": 883
           },
-          "title": "git-issue"
+          "title": "git-issue",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -146,12 +155,13 @@
             "archived": false,
             "id": 13021798,
             "language": "Go",
-            "last_commit": "2026-08-26T06:26:54Z",
+            "last_commit": "2026-08-27T19:55:13Z",
             "owner": "git-lfs",
             "repo": "git-lfs",
             "stars": 14446
           },
-          "title": "git-lfs"
+          "title": "git-lfs",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -164,9 +174,10 @@
             "last_commit": "2022-04-06T06:22:43Z",
             "owner": "iwata",
             "repo": "git-now",
-            "stars": 188
+            "stars": 187
           },
-          "title": "git-now"
+          "title": "git-now",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -181,7 +192,8 @@
             "repo": "git-plus",
             "stars": 202
           },
-          "title": "git-plus"
+          "title": "git-plus",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -196,7 +208,8 @@
             "repo": "git-test",
             "stars": 203
           },
-          "title": "git-test"
+          "title": "git-test",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -211,7 +224,8 @@
             "repo": "legit",
             "stars": 5685
           },
-          "title": "legit"
+          "title": "legit",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -226,7 +240,8 @@
             "repo": "git-when-merged",
             "stars": 465
           },
-          "title": "git-when-merged"
+          "title": "git-when-merged",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -241,7 +256,8 @@
             "repo": "git-playback",
             "stars": 134
           },
-          "title": "git-playback"
+          "title": "git-playback",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -256,7 +272,8 @@
             "repo": "git-branch-status",
             "stars": 32
           },
-          "title": "git-branch-status"
+          "title": "git-branch-status",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -271,7 +288,8 @@
             "repo": "git-open",
             "stars": 3456
           },
-          "title": "git-open"
+          "title": "git-open",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -286,7 +304,8 @@
             "repo": "git-my",
             "stars": 36
           },
-          "title": "git-my"
+          "title": "git-my",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -301,7 +320,8 @@
             "repo": "git-ink",
             "stars": 19
           },
-          "title": "git-ink"
+          "title": "git-ink",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -316,7 +336,8 @@
             "repo": "recursive-blame",
             "stars": 69
           },
-          "title": "recursive-blame"
+          "title": "recursive-blame",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         }
       ],
       "title": "Overview"
@@ -337,7 +358,8 @@
             "repo": "git-fire",
             "stars": 4545
           },
-          "title": "git-fire"
+          "title": "git-fire",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -352,7 +374,8 @@
             "repo": "git-town",
             "stars": 3366
           },
-          "title": "Git Town"
+          "title": "Git Town",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -365,9 +388,10 @@
             "last_commit": "2023-12-04T14:41:06Z",
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11704
+            "stars": 11703
           },
-          "title": "git-blame-someone-else"
+          "title": "git-blame-someone-else",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -380,9 +404,10 @@
             "last_commit": "2026-08-19T18:49:08Z",
             "owner": "so-fancy",
             "repo": "diff-so-fancy",
-            "stars": 18081
+            "stars": 18082
           },
-          "title": "diff-so-fancy"
+          "title": "diff-so-fancy",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -397,7 +422,8 @@
             "repo": "git-stats",
             "stars": 6602
           },
-          "title": "git-stats"
+          "title": "git-stats",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -412,7 +438,8 @@
             "repo": "git-secret",
             "stars": 4038
           },
-          "title": "git-secret"
+          "title": "git-secret",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -425,9 +452,10 @@
             "last_commit": "2025-09-17T20:31:20Z",
             "owner": "awslabs",
             "repo": "git-secrets",
-            "stars": 13382
+            "stars": 13383
           },
-          "title": "git-secrets"
+          "title": "git-secrets",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -442,7 +470,8 @@
             "repo": "git-fixup",
             "stars": 261
           },
-          "title": "git-fixup"
+          "title": "git-fixup",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -457,7 +486,8 @@
             "repo": "git-recent",
             "stars": 1032
           },
-          "title": "git-recent"
+          "title": "git-recent",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -472,7 +502,8 @@
             "repo": "git-interactive-rebase-tool",
             "stars": 1883
           },
-          "title": "git-interactive-rebase-tool"
+          "title": "git-interactive-rebase-tool",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -487,7 +518,8 @@
             "repo": "git-fiddle",
             "stars": 202
           },
-          "title": "git-fiddle"
+          "title": "git-fiddle",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -502,7 +534,8 @@
             "repo": "git-user",
             "stars": 50
           },
-          "title": "git-user"
+          "title": "git-user",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -517,7 +550,8 @@
             "repo": "gitsome",
             "stars": 7688
           },
-          "title": "gitsome"
+          "title": "gitsome",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -532,7 +566,8 @@
             "repo": "git-hound",
             "stars": 315
           },
-          "title": "git-hound"
+          "title": "git-hound",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -547,7 +582,8 @@
             "repo": "git-recall",
             "stars": 2112
           },
-          "title": "git-recall"
+          "title": "git-recall",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -562,7 +598,8 @@
             "repo": "git-standup",
             "stars": 7848
           },
-          "title": "git-standup"
+          "title": "git-standup",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -577,7 +614,8 @@
             "repo": "cz-cli",
             "stars": 17499
           },
-          "title": "commitizen"
+          "title": "commitizen",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -592,7 +630,8 @@
             "repo": "git-fresh",
             "stars": 512
           },
-          "title": "git-fresh"
+          "title": "git-fresh",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         }
       ],
       "title": "Overview"
@@ -613,7 +652,8 @@
             "repo": "git-signatures",
             "stars": 155
           },
-          "title": "git-signatures"
+          "title": "git-signatures",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -628,7 +668,8 @@
             "repo": "git-profile-manager",
             "stars": 11
           },
-          "title": "git-profile"
+          "title": "git-profile",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -643,7 +684,8 @@
             "repo": "git-revise",
             "stars": 861
           },
-          "title": "git-revise"
+          "title": "git-revise",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -656,9 +698,10 @@
             "last_commit": "2026-07-09T22:09:49Z",
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13190
+            "stars": 13194
           },
-          "title": "filter-repo"
+          "title": "filter-repo",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         },
         {
           "children": [],
@@ -673,7 +716,8 @@
             "repo": "git-jump",
             "stars": 215
           },
-          "title": "git-jump"
+          "title": "git-jump",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         }
       ],
       "title": "Overview"
@@ -694,7 +738,8 @@
             "repo": "git-branchcut",
             "stars": 8
           },
-          "title": "git-branchcut"
+          "title": "git-branchcut",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         }
       ],
       "title": "Overview"
@@ -715,14 +760,15 @@
             "repo": "git-spend",
             "stars": 15
           },
-          "title": "git-spend"
+          "title": "git-spend",
+          "first_seen": "2026-08-28T05:19:09.116Z"
         }
       ],
       "title": "Overview"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:43:14.122Z",
+    "last_updated": "2026-08-28T05:19:09.116Z",
     "original_repository_info": {
       "archived": false,
       "id": 41139077,
@@ -730,7 +776,7 @@
       "last_commit": "2024-10-15T07:18:48Z",
       "owner": "stevemao",
       "repo": "awesome-git-addons",
-      "stars": 2195
+      "stars": 2196
     },
     "original_repository_sha": "a054ac3f39511f107004f0e2bb966b52ec28f498",
     "enhanced_repository": "enhansome/enhansome-git-addons",
