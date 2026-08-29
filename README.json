@@ -62,7 +62,7 @@
             "last_commit": "2024-02-02T21:00:44Z",
             "owner": "mislav",
             "repo": "hub",
-            "stars": 22957
+            "stars": 22956
           },
           "title": "hub",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -158,7 +158,7 @@
             "last_commit": "2026-08-27T19:55:13Z",
             "owner": "git-lfs",
             "repo": "git-lfs",
-            "stars": 14446
+            "stars": 14449
           },
           "title": "git-lfs",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -286,7 +286,7 @@
             "last_commit": "2026-05-25T01:06:15Z",
             "owner": "paulirish",
             "repo": "git-open",
-            "stars": 3456
+            "stars": 3455
           },
           "title": "git-open",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -372,7 +372,7 @@
             "last_commit": "2026-07-26T19:22:59Z",
             "owner": "git-town",
             "repo": "git-town",
-            "stars": 3366
+            "stars": 3367
           },
           "title": "Git Town",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -436,7 +436,7 @@
             "last_commit": "2026-08-24T18:21:41Z",
             "owner": "sobolevn",
             "repo": "git-secret",
-            "stars": 4038
+            "stars": 4040
           },
           "title": "git-secret",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -452,7 +452,7 @@
             "last_commit": "2025-09-17T20:31:20Z",
             "owner": "awslabs",
             "repo": "git-secrets",
-            "stars": 13383
+            "stars": 13384
           },
           "title": "git-secrets",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -596,7 +596,7 @@
             "last_commit": "2025-07-07T22:48:42Z",
             "owner": "nilbuild",
             "repo": "git-standup",
-            "stars": 7848
+            "stars": 7849
           },
           "title": "git-standup",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -612,7 +612,7 @@
             "last_commit": "2026-08-11T23:42:06Z",
             "owner": "commitizen",
             "repo": "cz-cli",
-            "stars": 17499
+            "stars": 17500
           },
           "title": "commitizen",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -698,7 +698,7 @@
             "last_commit": "2026-07-09T22:09:49Z",
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13194
+            "stars": 13196
           },
           "title": "filter-repo",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -768,7 +768,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:19:09.116Z",
+    "last_updated": "2026-08-29T03:08:40.918Z",
     "original_repository_info": {
       "archived": false,
       "id": 41139077,
