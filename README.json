@@ -15,7 +15,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-08-27T05:59:29Z",
-            "open_issues": 95,
+            "open_issues": 96,
             "owner": "tj",
             "repo": "git-extras",
             "stars": 18097,
@@ -231,7 +231,7 @@
             "open_issues": 481,
             "owner": "git-lfs",
             "repo": "git-lfs",
-            "stars": 14449,
+            "stars": 14452,
             "topics": [
               "git",
               "git-lfs",
@@ -588,7 +588,7 @@
             "open_issues": 4,
             "owner": "so-fancy",
             "repo": "diff-so-fancy",
-            "stars": 18082,
+            "stars": 18083,
             "topics": [
               "diff",
               "diff-highlight",
@@ -671,7 +671,7 @@
             "open_issues": 131,
             "owner": "awslabs",
             "repo": "git-secrets",
-            "stars": 13384,
+            "stars": 13386,
             "topics": []
           },
           "title": "git-secrets",
@@ -813,7 +813,7 @@
             "open_issues": 66,
             "owner": "donnemartin",
             "repo": "gitsome",
-            "stars": 7688,
+            "stars": 7689,
             "topics": [
               "cli",
               "cli-app",
@@ -1068,7 +1068,7 @@
             "open_issues": 100,
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13196,
+            "stars": 13198,
             "topics": []
           },
           "title": "filter-repo",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:27:03.065Z",
+    "last_updated": "2026-08-29T23:14:25.616Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
