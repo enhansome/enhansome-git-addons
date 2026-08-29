@@ -9,12 +9,19 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "GIT utilities -- repo summary, repl, changelog population, author commit percentages and more",
+            "homepage": null,
             "id": 817345,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-27T05:59:29Z",
+            "open_issues": 95,
             "owner": "tj",
             "repo": "git-extras",
-            "stars": 18097
+            "stars": 18097,
+            "topics": [
+              "git"
+            ]
           },
           "title": "git-extras",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -25,12 +32,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model",
+            "homepage": "http://nvie.com/posts/a-successful-git-branching-model/",
             "id": 3028781,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2023-08-17T11:06:35Z",
+            "open_issues": 171,
             "owner": "petervanderdoes",
             "repo": "gitflow-avh",
-            "stars": 5451
+            "stars": 5451,
+            "topics": [
+              "git",
+              "git-flow",
+              "shell",
+              "workflow"
+            ]
           },
           "title": "gitflow (AVH Edition)",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -41,12 +58,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "NOT MAINTAINED",
+            "homepage": "http://aanandprasad.com/git-up/",
             "id": 329035,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2017-11-07T22:48:59Z",
+            "open_issues": 36,
             "owner": "aanand",
             "repo": "git-up",
-            "stars": 2587
+            "stars": 2587,
+            "topics": []
           },
           "title": "git-up",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -57,12 +79,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A command-line tool that makes git easier to use with GitHub.",
+            "homepage": "https://hub.github.com/",
             "id": 401025,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-02-02T21:00:44Z",
+            "open_issues": 294,
             "owner": "mislav",
             "repo": "hub",
-            "stars": 22956
+            "stars": 22956,
+            "topics": [
+              "git",
+              "github-api",
+              "go",
+              "homebrew",
+              "pull-request"
+            ]
           },
           "title": "hub",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -73,12 +106,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "git deployment made easy",
+            "homepage": null,
             "id": 300994,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2019-03-22T16:13:56Z",
+            "open_issues": 18,
             "owner": "mislav",
             "repo": "git-deploy",
-            "stars": 2082
+            "stars": 2082,
+            "topics": []
           },
           "title": "git-deploy",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -89,12 +127,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "github like contributions calendar on terminal",
+            "homepage": null,
             "id": 13012881,
             "language": "Perl",
+            "license": "MIT",
             "last_commit": "2017-02-01T04:38:36Z",
+            "open_issues": 18,
             "owner": "k4rthik",
             "repo": "git-cal",
-            "stars": 1124
+            "stars": 1124,
+            "topics": []
           },
           "title": "git-cal",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -105,12 +148,20 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "git hooks manager",
+            "homepage": "http://git-hooks.github.io/git-hooks",
             "id": 26200089,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-04-21T01:36:34Z",
+            "open_issues": 7,
             "owner": "git-hooks",
             "repo": "git-hooks",
-            "stars": 418
+            "stars": 418,
+            "topics": [
+              "git",
+              "hook-manager"
+            ]
           },
           "title": "git-hooks",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -121,12 +172,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Incremental merge for git",
+            "homepage": null,
             "id": 9786109,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2024-07-17T00:05:59Z",
+            "open_issues": 79,
             "owner": "mhagger",
             "repo": "git-imerge",
-            "stars": 2844
+            "stars": 2844,
+            "topics": [
+              "git",
+              "merge-conflicts",
+              "python"
+            ]
           },
           "title": "git-imerge",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -137,12 +197,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Git-based decentralized issue management",
+            "homepage": null,
             "id": 50618223,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2025-10-17T21:01:53Z",
+            "open_issues": 24,
             "owner": "dspinellis",
             "repo": "git-issue",
-            "stars": 883
+            "stars": 883,
+            "topics": [
+              "git",
+              "issue-management",
+              "issue-tracker"
+            ]
           },
           "title": "git-issue",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -153,12 +222,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Git extension for versioning large files",
+            "homepage": "https://git-lfs.com",
             "id": 13021798,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T19:55:13Z",
+            "open_issues": 481,
             "owner": "git-lfs",
             "repo": "git-lfs",
-            "stars": 14449
+            "stars": 14449,
+            "topics": [
+              "git",
+              "git-lfs",
+              "go"
+            ]
           },
           "title": "git-lfs",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -169,12 +247,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A temporary commit tool for git",
+            "homepage": "http://d.hatena.ne.jp/mobcov/20110904/1315130438",
             "id": 2286576,
             "language": "Shell",
+            "license": "GPL-2.0",
             "last_commit": "2022-04-06T06:22:43Z",
+            "open_issues": 1,
             "owner": "iwata",
             "repo": "git-now",
-            "stars": 187
+            "stars": 187,
+            "topics": []
           },
           "title": "git-now",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -185,12 +268,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Git utilities",
+            "homepage": null,
             "id": 10282661,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-14T14:09:14Z",
+            "open_issues": 4,
             "owner": "tkrajina",
             "repo": "git-plus",
-            "stars": 202
+            "stars": 202,
+            "topics": [
+              "command-line-tool",
+              "git",
+              "git-multi"
+            ]
           },
           "title": "git-plus",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -201,12 +293,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "test your commits",
+            "homepage": null,
             "id": 28965711,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-04T13:15:20Z",
+            "open_issues": 3,
             "owner": "spotify",
             "repo": "git-test",
-            "stars": 203
+            "stars": 203,
+            "topics": [
+              "agnostic",
+              "test-automation",
+              "version-control"
+            ]
           },
           "title": "git-test",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -217,12 +318,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Git for Humans, Inspired by GitHub for Mac™.",
+            "homepage": "https://frostming.github.io/legit",
             "id": 1951148,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-10-09T19:32:28Z",
+            "open_issues": 7,
             "owner": "frostming",
             "repo": "legit",
-            "stars": 5685
+            "stars": 5685,
+            "topics": [
+              "cli",
+              "git",
+              "kennethreitz",
+              "tool"
+            ]
           },
           "title": "legit",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -233,12 +344,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Determine when a particular commit was merged into a git branch",
+            "homepage": null,
             "id": 7972465,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2023-08-06T07:59:58Z",
+            "open_issues": 0,
             "owner": "mhagger",
             "repo": "git-when-merged",
-            "stars": 465
+            "stars": 465,
+            "topics": []
           },
           "title": "git-when-merged",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -249,12 +365,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A git command to play back file history.",
+            "homepage": null,
             "id": 4442101,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-19T01:08:55Z",
+            "open_issues": 5,
             "owner": "jianli",
             "repo": "git-playback",
-            "stars": 134
+            "stars": 134,
+            "topics": []
           },
           "title": "git-playback",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -265,12 +386,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Git command to give you an overview of your branches",
+            "homepage": null,
             "id": 17658349,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2025-07-13T19:35:50Z",
+            "open_issues": 1,
             "owner": "alexdavid",
             "repo": "git-branch-status",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "title": "git-branch-status",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -281,12 +407,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Type `git open` to open the GitHub page or website for a repository in your browser.",
+            "homepage": null,
             "id": 29791986,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-05-25T01:06:15Z",
+            "open_issues": 49,
             "owner": "paulirish",
             "repo": "git-open",
-            "stars": 3455
+            "stars": 3455,
+            "topics": [
+              "bitbucket",
+              "git",
+              "github",
+              "gitlab",
+              "shell"
+            ]
           },
           "title": "git-open",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -297,12 +434,19 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Lists a user's remote branches and shows if it was merged and/or available locally",
+            "homepage": "https://github.com/davidosomething/git-my",
             "id": 31733373,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2020-04-03T06:48:14Z",
+            "open_issues": 2,
             "owner": "davidosomething",
             "repo": "git-my",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "git"
+            ]
           },
           "title": "git-my",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -313,12 +457,19 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Annotate your git branches",
+            "homepage": null,
             "id": 23458257,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2020-04-03T06:49:24Z",
+            "open_issues": 0,
             "owner": "davidosomething",
             "repo": "git-ink",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "git"
+            ]
           },
           "title": "git-ink",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -329,12 +480,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Recursive blame for Git",
+            "homepage": null,
             "id": 13587859,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-03-08T22:01:01Z",
+            "open_issues": 7,
             "owner": "scottgonzalez",
             "repo": "recursive-blame",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "title": "recursive-blame",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -351,12 +507,20 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": ":fire: Save Your Code in an Emergency",
+            "homepage": null,
             "id": 43623432,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2022-03-02T04:42:43Z",
+            "open_issues": 14,
             "owner": "qw3rtman",
             "repo": "git-fire",
-            "stars": 4545
+            "stars": 4545,
+            "topics": [
+              "emergency",
+              "git"
+            ]
           },
           "title": "git-fire",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -367,12 +531,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Git branches made easy",
+            "homepage": "https://www.git-town.com",
             "id": 19825320,
             "language": "Gherkin",
+            "license": "MIT",
             "last_commit": "2026-07-26T19:22:59Z",
+            "open_issues": 47,
             "owner": "git-town",
             "repo": "git-town",
-            "stars": 3367
+            "stars": 3367,
+            "topics": [
+              "command-line",
+              "git",
+              "git-flow",
+              "productivity",
+              "workflow"
+            ]
           },
           "title": "Git Town",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -383,12 +558,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Blame someone else for your bad code.",
+            "homepage": null,
             "id": 51184395,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2023-12-04T14:41:06Z",
+            "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11703
+            "stars": 11703,
+            "topics": []
           },
           "title": "git-blame-someone-else",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -399,12 +579,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Make your diffs human readable for improved code quality and faster defect detection. :tada:",
+            "homepage": null,
             "id": 51071818,
             "language": "Perl",
+            "license": "MIT",
             "last_commit": "2026-08-19T18:49:08Z",
+            "open_issues": 4,
             "owner": "so-fancy",
             "repo": "diff-so-fancy",
-            "stars": 18082
+            "stars": 18082,
+            "topics": [
+              "diff",
+              "diff-highlight",
+              "diffs",
+              "fancy",
+              "git",
+              "hacktoberfest"
+            ]
           },
           "title": "diff-so-fancy",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -415,12 +607,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🍀 Local git statistics including GitHub-like contributions calendars.",
+            "homepage": null,
             "id": 30538630,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2025-11-09T13:43:06Z",
+            "open_issues": 5,
             "owner": "IonicaBizau",
             "repo": "git-stats",
-            "stars": 6602
+            "stars": 6602,
+            "topics": [
+              "calendar",
+              "contributions-calendar",
+              "gitstats",
+              "hacktoberfest",
+              "statistics"
+            ]
           },
           "title": "git-stats",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -431,12 +634,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": ":busts_in_silhouette: A bash-tool to store your private data inside a git repository.",
+            "homepage": "https://sobolevn.me/git-secret/",
             "id": 51747445,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-24T18:21:41Z",
+            "open_issues": 153,
             "owner": "sobolevn",
             "repo": "git-secret",
-            "stars": 4040
+            "stars": 4040,
+            "topics": [
+              "encryption",
+              "git",
+              "git-addons",
+              "git-secret",
+              "gpg",
+              "secret-management"
+            ]
           },
           "title": "git-secret",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -447,12 +662,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Prevents you from committing secrets and credentials into git repositories",
+            "homepage": null,
             "id": 39160150,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T20:31:20Z",
+            "open_issues": 131,
             "owner": "awslabs",
             "repo": "git-secrets",
-            "stars": 13384
+            "stars": 13384,
+            "topics": []
           },
           "title": "git-secrets",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -463,12 +683,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Fighting the copy-paste element of your rebase workflow.",
+            "homepage": null,
             "id": 10815432,
             "language": "Shell",
+            "license": "ISC",
             "last_commit": "2025-01-07T12:40:58Z",
+            "open_issues": 9,
             "owner": "keis",
             "repo": "git-fixup",
-            "stars": 261
+            "stars": 261,
+            "topics": [
+              "fixup",
+              "git",
+              "rebase",
+              "squash",
+              "zsh"
+            ]
           },
           "title": "git-fixup",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -479,12 +710,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "See your latest local git branches, formatted real fancy",
+            "homepage": "https://www.npmjs.com/package/git-recent",
             "id": 65041439,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-06-04T19:18:43Z",
+            "open_issues": 6,
             "owner": "paulirish",
             "repo": "git-recent",
-            "stars": 1032
+            "stars": 1032,
+            "topics": []
           },
           "title": "git-recent",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -495,12 +731,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Native cross-platform full feature terminal-based sequence editor for git interactive rebase.",
+            "homepage": "https://gitrebasetool.mitmaro.ca/",
             "id": 77011446,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-14T03:27:00Z",
+            "open_issues": 32,
             "owner": "MitMaro",
             "repo": "git-interactive-rebase-tool",
-            "stars": 1883
+            "stars": 1883,
+            "topics": [
+              "cross-platform",
+              "editor",
+              "git",
+              "hacktoberfest",
+              "rust"
+            ]
           },
           "title": "git-interactive-rebase-tool",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -511,12 +758,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Edit commit messages, authors, and timestamps during git-rebase",
+            "homepage": null,
             "id": 67255362,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2017-05-06T21:45:07Z",
+            "open_issues": 1,
             "owner": "felixSchl",
             "repo": "git-fiddle",
-            "stars": 202
+            "stars": 202,
+            "topics": []
           },
           "title": "git-fiddle",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -527,12 +779,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Git plugin that allows you to save multiple user profiles and set them as project defaults",
+            "homepage": null,
             "id": 63816673,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-03-26T02:23:47Z",
+            "open_issues": 1,
             "owner": "gesquive",
             "repo": "git-user",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "git",
+              "git-addons",
+              "git-plugin"
+            ]
           },
           "title": "git-user",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -543,12 +804,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools",
+            "homepage": null,
             "id": 56897766,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-08T10:27:14Z",
+            "open_issues": 66,
             "owner": "donnemartin",
             "repo": "gitsome",
-            "stars": 7688
+            "stars": 7688,
+            "topics": [
+              "cli",
+              "cli-app",
+              "client",
+              "command-line",
+              "developer-tools",
+              "development",
+              "git",
+              "github",
+              "github-api",
+              "github-client",
+              "github-enterprise",
+              "linux",
+              "macos",
+              "programming",
+              "python",
+              "shell",
+              "terminal",
+              "utilities",
+              "utility",
+              "windows"
+            ]
           },
           "title": "gitsome",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -559,12 +846,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Git plugin that prevents sensitive data from being committed.",
+            "homepage": null,
             "id": 45624104,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2020-10-08T22:34:28Z",
+            "open_issues": 3,
             "owner": "ezekg",
             "repo": "git-hound",
-            "stars": 315
+            "stars": 315,
+            "topics": [
+              "cli",
+              "git",
+              "git-plugin",
+              "golang",
+              "regular-expression",
+              "security"
+            ]
           },
           "title": "git-hound",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -575,12 +874,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "An interactive way to peruse your git history from the terminal ",
+            "homepage": null,
             "id": 78954825,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2021-04-22T21:42:18Z",
+            "open_issues": 7,
             "owner": "Fakerr",
             "repo": "git-recall",
-            "stars": 2112
+            "stars": 2112,
+            "topics": [
+              "command-line",
+              "git",
+              "log"
+            ]
           },
           "title": "git-recall",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -591,12 +899,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Recall what you or your team did on the last working day",
+            "homepage": null,
             "id": 55859203,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2025-07-07T22:48:42Z",
+            "open_issues": 24,
             "owner": "nilbuild",
             "repo": "git-standup",
-            "stars": 7849
+            "stars": 7849,
+            "topics": [
+              "agile",
+              "git",
+              "git-",
+              "git-addons",
+              "git-standup",
+              "meeting",
+              "standup"
+            ]
           },
           "title": "git-standup",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -607,12 +928,28 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The commitizen command line utility. #BlackLivesMatter",
+            "homepage": "http://commitizen.github.io/cz-cli/",
             "id": 34230966,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-11T23:42:06Z",
+            "open_issues": 193,
             "owner": "commitizen",
             "repo": "cz-cli",
-            "stars": 17500
+            "stars": 17499,
+            "topics": [
+              "command-line",
+              "commit-hooks",
+              "commitizen",
+              "commitizen-adapter",
+              "git",
+              "javascript",
+              "node",
+              "semantic-release",
+              "semantic-versioning",
+              "utilities"
+            ]
           },
           "title": "commitizen",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -623,12 +960,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": ":lemon: Keep your Git repo fresh.",
+            "homepage": null,
             "id": 40637960,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-04-06T15:14:45Z",
+            "open_issues": 5,
             "owner": "imsky",
             "repo": "git-fresh",
-            "stars": 512
+            "stars": 512,
+            "topics": [
+              "git",
+              "hacktoberfest",
+              "utility"
+            ]
           },
           "title": "git-fresh",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -645,12 +991,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "Git extensions for m-of-n signing and verification on commits/tags.",
+            "homepage": null,
             "id": 128689634,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2022-02-15T21:42:19Z",
+            "open_issues": 8,
             "owner": "hashbang",
             "repo": "git-signatures",
-            "stars": 155
+            "stars": 155,
+            "topics": []
           },
           "title": "git-signatures",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -661,12 +1012,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Git Profile Manager allows to add and switch between multiple user profiles in your git repositories",
+            "homepage": null,
             "id": 183793451,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-01-30T13:21:22Z",
+            "open_issues": 4,
             "owner": "dm3ch",
             "repo": "git-profile-manager",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "git",
+              "manager",
+              "profile",
+              "profile-manager"
+            ]
           },
           "title": "git-profile",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -677,12 +1038,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A handy tool for doing efficient in-memory commit rebases & fixups",
+            "homepage": null,
             "id": 162235481,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-19T15:44:51Z",
+            "open_issues": 45,
             "owner": "mystor",
             "repo": "git-revise",
-            "stars": 861
+            "stars": 861,
+            "topics": []
           },
           "title": "git-revise",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -693,12 +1059,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Quickly rewrite git repository history (filter-branch replacement)",
+            "homepage": null,
             "id": 145584971,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-09T22:09:49Z",
+            "open_issues": 100,
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13196
+            "stars": 13196,
+            "topics": []
           },
           "title": "filter-repo",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -709,12 +1080,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Improved navigation between Git branches.",
+            "homepage": null,
             "id": 280176985,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-04-15T14:24:58Z",
+            "open_issues": 6,
             "owner": "mykolaharmash",
             "repo": "git-jump",
-            "stars": 215
+            "stars": 215,
+            "topics": [
+              "branches",
+              "cli",
+              "cli-ui",
+              "fuzzy-search",
+              "git"
+            ]
           },
           "title": "git-jump",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -731,12 +1113,20 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A Git branch cleanup addon, branchcut",
+            "homepage": null,
             "id": 328857026,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2021-02-07T14:52:51Z",
+            "open_issues": 1,
             "owner": "dlsrb6342",
             "repo": "git-branchcut",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "git",
+              "go"
+            ]
           },
           "title": "git-branchcut",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -753,12 +1143,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Sum the time-tracking \"/spend\" commands of commit messages.",
+            "homepage": null,
             "id": 618670555,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-04-06T18:19:26Z",
+            "open_issues": 6,
             "owner": "Goutte",
             "repo": "git-spend",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "binary",
+              "cli",
+              "git",
+              "git-addons",
+              "git-commands",
+              "golang",
+              "spending-tracker",
+              "time-tracking",
+              "tool"
+            ]
           },
           "title": "git-spend",
           "first_seen": "2026-08-28T05:19:09.116Z"
@@ -768,15 +1173,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:08:40.918Z",
+    "last_updated": "2026-08-29T04:27:03.065Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
+      "homepage": null,
       "id": 41139077,
       "language": null,
+      "license": null,
       "last_commit": "2024-10-15T07:18:48Z",
+      "open_issues": 15,
       "owner": "stevemao",
       "repo": "awesome-git-addons",
-      "stars": 2196
+      "stars": 2196,
+      "topics": [
+        "add-on",
+        "add-ons",
+        "addon",
+        "addons",
+        "awesome",
+        "awesome-list",
+        "cli",
+        "git",
+        "hacktoberfest",
+        "list",
+        "lists",
+        "resources"
+      ]
     },
     "original_repository_sha": "a054ac3f39511f107004f0e2bb966b52ec28f498",
     "enhanced_repository": "enhansome/enhansome-git-addons",

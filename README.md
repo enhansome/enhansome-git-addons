@@ -9,7 +9,7 @@ Something awesome happens!
 
 > *“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)*
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,880 | 🐛 105 | 📅 2026-08-21 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21 list thing.
 
 **Note**: Certain commands may not function immediately after installation. You may need to run a post-install script or manually configure aliases for them to work correctly.
 
@@ -1731,7 +1731,7 @@ a1097116 - add versioning to readme (14 hours ago) <Steve Mao>
 6b6e7465 - add test coverage (15 hours ago) <Steve Mao>
 ```
 
-## [commitizen](https://github.com/commitizen/cz-cli) ⭐ 17,500 | 🐛 193 | 🌐 JavaScript | 📅 2026-08-11
+## [commitizen](https://github.com/commitizen/cz-cli) ⭐ 17,499 | 🐛 193 | 🌐 JavaScript | 📅 2026-08-11
 
 ```
 $ git cz
