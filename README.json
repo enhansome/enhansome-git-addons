@@ -18,7 +18,7 @@
             "open_issues": 96,
             "owner": "tj",
             "repo": "git-extras",
-            "stars": 18097,
+            "stars": 18100,
             "topics": [
               "git"
             ]
@@ -203,7 +203,7 @@
             "language": "Shell",
             "license": "GPL-3.0",
             "last_commit": "2025-10-17T21:01:53Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "dspinellis",
             "repo": "git-issue",
             "stars": 883,
@@ -231,7 +231,7 @@
             "open_issues": 481,
             "owner": "git-lfs",
             "repo": "git-lfs",
-            "stars": 14452,
+            "stars": 14458,
             "topics": [
               "git",
               "git-lfs",
@@ -616,7 +616,7 @@
             "open_issues": 5,
             "owner": "IonicaBizau",
             "repo": "git-stats",
-            "stars": 6602,
+            "stars": 6601,
             "topics": [
               "calendar",
               "contributions-calendar",
@@ -671,7 +671,7 @@
             "open_issues": 131,
             "owner": "awslabs",
             "repo": "git-secrets",
-            "stars": 13386,
+            "stars": 13385,
             "topics": []
           },
           "title": "git-secrets",
@@ -719,7 +719,7 @@
             "open_issues": 6,
             "owner": "paulirish",
             "repo": "git-recent",
-            "stars": 1032,
+            "stars": 1040,
             "topics": []
           },
           "title": "git-recent",
@@ -1068,7 +1068,7 @@
             "open_issues": 100,
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13198,
+            "stars": 13199,
             "topics": []
           },
           "title": "filter-repo",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T23:14:25.616Z",
+    "last_updated": "2026-08-30T23:25:48.061Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
