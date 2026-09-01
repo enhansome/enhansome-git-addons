@@ -227,11 +227,11 @@
             "id": 13021798,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-27T19:55:13Z",
-            "open_issues": 481,
+            "last_commit": "2026-08-31T17:09:43Z",
+            "open_issues": 478,
             "owner": "git-lfs",
             "repo": "git-lfs",
-            "stars": 14458,
+            "stars": 14462,
             "topics": [
               "git",
               "git-lfs",
@@ -537,10 +537,10 @@
             "language": "Gherkin",
             "license": "MIT",
             "last_commit": "2026-07-26T19:22:59Z",
-            "open_issues": 47,
+            "open_issues": 49,
             "owner": "git-town",
             "repo": "git-town",
-            "stars": 3367,
+            "stars": 3368,
             "topics": [
               "command-line",
               "git",
@@ -567,7 +567,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11703,
+            "stars": 11705,
             "topics": []
           },
           "title": "git-blame-someone-else",
@@ -584,11 +584,11 @@
             "id": 51071818,
             "language": "Perl",
             "license": "MIT",
-            "last_commit": "2026-08-19T18:49:08Z",
+            "last_commit": "2026-08-31T03:11:08Z",
             "open_issues": 4,
             "owner": "so-fancy",
             "repo": "diff-so-fancy",
-            "stars": 18083,
+            "stars": 18084,
             "topics": [
               "diff",
               "diff-highlight",
@@ -671,7 +671,7 @@
             "open_issues": 131,
             "owner": "awslabs",
             "repo": "git-secrets",
-            "stars": 13385,
+            "stars": 13386,
             "topics": []
           },
           "title": "git-secrets",
@@ -719,7 +719,7 @@
             "open_issues": 6,
             "owner": "paulirish",
             "repo": "git-recent",
-            "stars": 1040,
+            "stars": 1041,
             "topics": []
           },
           "title": "git-recent",
@@ -813,7 +813,7 @@
             "open_issues": 66,
             "owner": "donnemartin",
             "repo": "gitsome",
-            "stars": 7689,
+            "stars": 7690,
             "topics": [
               "cli",
               "cli-app",
@@ -937,7 +937,7 @@
             "open_issues": 193,
             "owner": "commitizen",
             "repo": "cz-cli",
-            "stars": 17499,
+            "stars": 17500,
             "topics": [
               "command-line",
               "commit-hooks",
@@ -1068,7 +1068,7 @@
             "open_issues": 100,
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13199,
+            "stars": 13207,
             "topics": []
           },
           "title": "filter-repo",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T23:25:48.061Z",
+    "last_updated": "2026-09-01T00:33:44.135Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
