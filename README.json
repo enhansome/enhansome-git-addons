@@ -18,7 +18,7 @@
             "open_issues": 95,
             "owner": "tj",
             "repo": "git-extras",
-            "stars": 18102,
+            "stars": 18103,
             "topics": [
               "git"
             ]
@@ -231,7 +231,7 @@
             "open_issues": 478,
             "owner": "git-lfs",
             "repo": "git-lfs",
-            "stars": 14465,
+            "stars": 14466,
             "topics": [
               "git",
               "git-lfs",
@@ -416,7 +416,7 @@
             "open_issues": 49,
             "owner": "paulirish",
             "repo": "git-open",
-            "stars": 3456,
+            "stars": 3457,
             "topics": [
               "bitbucket",
               "git",
@@ -567,7 +567,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11707,
+            "stars": 11710,
             "topics": []
           },
           "title": "git-blame-someone-else",
@@ -588,7 +588,7 @@
             "open_issues": 4,
             "owner": "so-fancy",
             "repo": "diff-so-fancy",
-            "stars": 18086,
+            "stars": 18089,
             "topics": [
               "diff",
               "diff-highlight",
@@ -740,7 +740,7 @@
             "open_issues": 32,
             "owner": "MitMaro",
             "repo": "git-interactive-rebase-tool",
-            "stars": 1883,
+            "stars": 1884,
             "topics": [
               "cross-platform",
               "editor",
@@ -813,7 +813,7 @@
             "open_issues": 66,
             "owner": "donnemartin",
             "repo": "gitsome",
-            "stars": 7690,
+            "stars": 7692,
             "topics": [
               "cli",
               "cli-app",
@@ -908,7 +908,7 @@
             "open_issues": 24,
             "owner": "nilbuild",
             "repo": "git-standup",
-            "stars": 7848,
+            "stars": 7849,
             "topics": [
               "agile",
               "git",
@@ -933,8 +933,8 @@
             "id": 34230966,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-02T21:46:31Z",
-            "open_issues": 193,
+            "last_commit": "2026-09-03T15:52:04Z",
+            "open_issues": 195,
             "owner": "commitizen",
             "repo": "cz-cli",
             "stars": 17501,
@@ -1068,7 +1068,7 @@
             "open_issues": 100,
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13222,
+            "stars": 13228,
             "topics": []
           },
           "title": "filter-repo",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T23:16:13.603Z",
+    "last_updated": "2026-09-03T23:13:57.785Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
