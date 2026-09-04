@@ -15,7 +15,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-09-01T19:25:50Z",
-            "open_issues": 95,
+            "open_issues": 96,
             "owner": "tj",
             "repo": "git-extras",
             "stars": 18103,
@@ -88,7 +88,7 @@
             "open_issues": 294,
             "owner": "mislav",
             "repo": "hub",
-            "stars": 22952,
+            "stars": 22954,
             "topics": [
               "git",
               "github-api",
@@ -228,10 +228,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-09-02T00:35:37Z",
-            "open_issues": 478,
+            "open_issues": 477,
             "owner": "git-lfs",
             "repo": "git-lfs",
-            "stars": 14466,
+            "stars": 14469,
             "topics": [
               "git",
               "git-lfs",
@@ -327,7 +327,7 @@
             "open_issues": 7,
             "owner": "frostming",
             "repo": "legit",
-            "stars": 5685,
+            "stars": 5684,
             "topics": [
               "cli",
               "git",
@@ -413,7 +413,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-05-25T01:06:15Z",
-            "open_issues": 49,
+            "open_issues": 50,
             "owner": "paulirish",
             "repo": "git-open",
             "stars": 3457,
@@ -516,7 +516,7 @@
             "open_issues": 14,
             "owner": "qw3rtman",
             "repo": "git-fire",
-            "stars": 4546,
+            "stars": 4545,
             "topics": [
               "emergency",
               "git"
@@ -540,7 +540,7 @@
             "open_issues": 49,
             "owner": "git-town",
             "repo": "git-town",
-            "stars": 3372,
+            "stars": 3371,
             "topics": [
               "command-line",
               "git",
@@ -567,7 +567,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11710,
+            "stars": 11708,
             "topics": []
           },
           "title": "git-blame-someone-else",
@@ -643,7 +643,7 @@
             "open_issues": 153,
             "owner": "sobolevn",
             "repo": "git-secret",
-            "stars": 4040,
+            "stars": 4042,
             "topics": [
               "encryption",
               "git",
@@ -671,7 +671,7 @@
             "open_issues": 131,
             "owner": "awslabs",
             "repo": "git-secrets",
-            "stars": 13387,
+            "stars": 13388,
             "topics": []
           },
           "title": "git-secrets",
@@ -740,7 +740,7 @@
             "open_issues": 32,
             "owner": "MitMaro",
             "repo": "git-interactive-rebase-tool",
-            "stars": 1884,
+            "stars": 1883,
             "topics": [
               "cross-platform",
               "editor",
@@ -933,11 +933,11 @@
             "id": 34230966,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T15:52:04Z",
+            "last_commit": "2026-09-04T00:09:05Z",
             "open_issues": 195,
             "owner": "commitizen",
             "repo": "cz-cli",
-            "stars": 17501,
+            "stars": 17499,
             "topics": [
               "command-line",
               "commit-hooks",
@@ -1068,7 +1068,7 @@
             "open_issues": 100,
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13228,
+            "stars": 13231,
             "topics": []
           },
           "title": "filter-repo",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T23:13:57.785Z",
+    "last_updated": "2026-09-04T23:00:21.130Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
