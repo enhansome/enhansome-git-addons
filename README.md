@@ -9,7 +9,7 @@ Something awesome happens!
 
 > *“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)*
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,010 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,315 | 🐛 106 | 📅 2026-09-02 list thing.
 
 **Note**: Certain commands may not function immediately after installation. You may need to run a post-install script or manually configure aliases for them to work correctly.
 
@@ -1111,7 +1111,7 @@ $ git issue show [Tab]
 e6a95c9 - New issue entered from the command line
 ```
 
-## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,469 | 🐛 477 | 🌐 Go | 📅 2026-09-02
+## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,472 | 🐛 477 | 🌐 Go | 📅 2026-09-02
 
 ```
 $ git lfs track "*.mp3"
@@ -1302,7 +1302,7 @@ $ git branch-status
  master    [current branch]                   [1 ahead of origin/master]
 ```
 
-## [git-open](https://github.com/paulirish/git-open) ⭐ 3,457 | 🐛 50 | 🌐 Shell | 📅 2026-05-25
+## [git-open](https://github.com/paulirish/git-open) ⭐ 3,458 | 🐛 50 | 🌐 Shell | 📅 2026-05-25
 
 ```
 $ git open
@@ -1420,7 +1420,7 @@ results in /tmp/word-blame-output/
 
 ![git word-blame on this README](https://user-images.githubusercontent.com/1469823/57202569-0247eb00-6fa7-11e9-8549-f55d81299fab.png)
 
-## [git-fire](https://github.com/qw3rtman/git-fire) ⭐ 4,545 | 🐛 14 | 🌐 Shell | 📅 2022-03-02
+## [git-fire](https://github.com/qw3rtman/git-fire) ⭐ 4,544 | 🐛 14 | 🌐 Shell | 📅 2022-03-02
 
 ```
 $ git fire
@@ -1438,7 +1438,7 @@ Branch fire-master-maochenyan@gmail.com-1451379915 set up to track remote branch
 Leave building!
 ```
 
-## [Git Town](https://github.com/git-town/git-town) ⭐ 3,371 | 🐛 49 | 🌐 Gherkin | 📅 2026-07-26
+## [Git Town](https://github.com/git-town/git-town) ⭐ 3,370 | 🐛 49 | 🌐 Gherkin | 📅 2026-07-26
 
 ### git hack
 
@@ -1522,7 +1522,7 @@ open <url to create pull request for current branch>
 Deleted branch my-branch (was 55cb0f7).
 ```
 
-## [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,708 | 🐛 21 | 🌐 Shell | 📅 2023-12-04
+## [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,709 | 🐛 21 | 🌐 Shell | 📅 2023-12-04
 
 ```
 $ git blame-someone-else 'Steve Mao <maochenyan@gmail.com>' 2efb4e3a061a2e8aaa58033e9c13c3e0e5fcde4b
@@ -1593,7 +1593,7 @@ File `hideme.txt' exists. Overwrite? (y/N) y
 done. all 1 files are revealed.
 ```
 
-## [git-secrets](https://github.com/awslabs/git-secrets) ⭐ 13,388 | 🐛 131 | 🌐 Shell | 📅 2025-09-17
+## [git-secrets](https://github.com/awslabs/git-secrets) ⭐ 13,387 | 🐛 131 | 🌐 Shell | 📅 2025-09-17
 
 > Prevents you from committing passwords and other sensitive information to a git repository.
 
@@ -1716,7 +1716,7 @@ $ git recall -f
 # Fetch commits beforehand.
 ```
 
-## [git-standup](https://github.com/kamranahmedse/git-standup) ⭐ 7,849 | 🐛 24 | 🌐 Shell | 📅 2025-07-07
+## [git-standup](https://github.com/kamranahmedse/git-standup) ⭐ 7,851 | 🐛 24 | 🌐 Shell | 📅 2025-07-07
 
 ```
 $ git standup
@@ -1907,7 +1907,7 @@ Currently there will be no output in case of success
 
 TBD - PR Welcome!
 
-## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,231 | 🐛 100 | 🌐 Python | 📅 2026-07-09
+## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,235 | 🐛 100 | 🌐 Python | 📅 2026-07-09
 
 TBD - PR Welcome!
 
@@ -2036,4 +2036,4 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
