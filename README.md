@@ -9,7 +9,7 @@ Something awesome happens!
 
 > *“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)*
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,659 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,968 | 🐛 106 | 📅 2026-09-02 list thing.
 
 **Note**: Certain commands may not function immediately after installation. You may need to run a post-install script or manually configure aliases for them to work correctly.
 
@@ -573,7 +573,7 @@ $ git flow hotfix delete awesome-release
 $ git flow support
 ```
 
-## [git-up](https://github.com/aanand/git-up) ⭐ 2,587 | 🐛 36 | 🌐 Ruby | 📅 2017-11-07
+## [git-up](https://github.com/aanand/git-up) ⭐ 2,586 | 🐛 36 | 🌐 Ruby | 📅 2017-11-07
 
 ```
 $ git up
@@ -1111,7 +1111,7 @@ $ git issue show [Tab]
 e6a95c9 - New issue entered from the command line
 ```
 
-## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,474 | 🐛 477 | 🌐 Go | 📅 2026-09-02
+## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,476 | 🐛 477 | 🌐 Go | 📅 2026-09-02
 
 ```
 $ git lfs track "*.mp3"
@@ -1438,7 +1438,7 @@ Branch fire-master-maochenyan@gmail.com-1451379915 set up to track remote branch
 Leave building!
 ```
 
-## [Git Town](https://github.com/git-town/git-town) ⭐ 3,370 | 🐛 49 | 🌐 Gherkin | 📅 2026-07-26
+## [Git Town](https://github.com/git-town/git-town) ⭐ 3,371 | 🐛 49 | 🌐 Gherkin | 📅 2026-07-26
 
 ### git hack
 
@@ -1522,14 +1522,14 @@ open <url to create pull request for current branch>
 Deleted branch my-branch (was 55cb0f7).
 ```
 
-## [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,709 | 🐛 21 | 🌐 Shell | 📅 2023-12-04
+## [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,710 | 🐛 21 | 🌐 Shell | 📅 2023-12-04
 
 ```
 $ git blame-someone-else 'Steve Mao <maochenyan@gmail.com>' 2efb4e3a061a2e8aaa58033e9c13c3e0e5fcde4b
 Steve Mao  is now the author of 2efb4e3. You're officially an asshole.
 ```
 
-## [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,089 | 🐛 5 | 🌐 Perl | 📅 2026-08-31
+## [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,090 | 🐛 5 | 🌐 Perl | 📅 2026-08-31
 
 ```
 $ git dsf
@@ -1593,7 +1593,7 @@ File `hideme.txt' exists. Overwrite? (y/N) y
 done. all 1 files are revealed.
 ```
 
-## [git-secrets](https://github.com/awslabs/git-secrets) ⭐ 13,387 | 🐛 131 | 🌐 Shell | 📅 2025-09-17
+## [git-secrets](https://github.com/awslabs/git-secrets) ⭐ 13,389 | 🐛 131 | 🌐 Shell | 📅 2025-09-17
 
 > Prevents you from committing passwords and other sensitive information to a git repository.
 
@@ -1615,7 +1615,7 @@ $ git fixup 6d623f6525dd94b4aaea6f6ae2e7a59edc39bdb8
 6d623f6525dd94b4aaea6f6ae2e7a59edc39bdb8 [L] changed gif with text <mail@sobolevn.me>
 ```
 
-## [git-recent](https://github.com/paulirish/git-recent) ⭐ 1,042 | 🐛 6 | 🌐 Shell | 📅 2026-06-04
+## [git-recent](https://github.com/paulirish/git-recent) ⭐ 1,043 | 🐛 6 | 🌐 Shell | 📅 2026-06-04
 
 ```
 $ git recent
@@ -1731,7 +1731,7 @@ a1097116 - add versioning to readme (14 hours ago) <Steve Mao>
 6b6e7465 - add test coverage (15 hours ago) <Steve Mao>
 ```
 
-## [commitizen](https://github.com/commitizen/cz-cli) ⭐ 17,500 | 🐛 195 | 🌐 JavaScript | 📅 2026-09-04
+## [commitizen](https://github.com/commitizen/cz-cli) ⭐ 17,499 | 🐛 195 | 🌐 JavaScript | 📅 2026-09-04
 
 ```
 $ git cz
@@ -1907,7 +1907,7 @@ Currently there will be no output in case of success
 
 TBD - PR Welcome!
 
-## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,236 | 🐛 100 | 🌐 Python | 📅 2026-07-09
+## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,251 | 🐛 102 | 🌐 Python | 📅 2026-07-09
 
 TBD - PR Welcome!
 
@@ -2036,4 +2036,4 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
