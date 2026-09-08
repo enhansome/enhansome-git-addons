@@ -18,7 +18,7 @@
             "open_issues": 95,
             "owner": "tj",
             "repo": "git-extras",
-            "stars": 18102,
+            "stars": 18101,
             "topics": [
               "git"
             ]
@@ -85,10 +85,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2024-02-02T21:00:44Z",
-            "open_issues": 294,
+            "open_issues": 295,
             "owner": "mislav",
             "repo": "hub",
-            "stars": 22957,
+            "stars": 22955,
             "topics": [
               "git",
               "github-api",
@@ -231,7 +231,7 @@
             "open_issues": 477,
             "owner": "git-lfs",
             "repo": "git-lfs",
-            "stars": 14476,
+            "stars": 14477,
             "topics": [
               "git",
               "git-lfs",
@@ -540,7 +540,7 @@
             "open_issues": 49,
             "owner": "git-town",
             "repo": "git-town",
-            "stars": 3371,
+            "stars": 3374,
             "topics": [
               "command-line",
               "git",
@@ -588,7 +588,7 @@
             "open_issues": 5,
             "owner": "so-fancy",
             "repo": "diff-so-fancy",
-            "stars": 18090,
+            "stars": 18089,
             "topics": [
               "diff",
               "diff-highlight",
@@ -643,7 +643,7 @@
             "open_issues": 153,
             "owner": "sobolevn",
             "repo": "git-secret",
-            "stars": 4043,
+            "stars": 4044,
             "topics": [
               "encryption",
               "git",
@@ -740,7 +740,7 @@
             "open_issues": 32,
             "owner": "MitMaro",
             "repo": "git-interactive-rebase-tool",
-            "stars": 1883,
+            "stars": 1882,
             "topics": [
               "cross-platform",
               "editor",
@@ -813,7 +813,7 @@
             "open_issues": 66,
             "owner": "donnemartin",
             "repo": "gitsome",
-            "stars": 7692,
+            "stars": 7693,
             "topics": [
               "cli",
               "cli-app",
@@ -1065,10 +1065,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-07-09T22:09:49Z",
-            "open_issues": 102,
+            "open_issues": 104,
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13251,
+            "stars": 13252,
             "topics": []
           },
           "title": "filter-repo",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T23:27:14.666Z",
+    "last_updated": "2026-09-08T23:20:19.321Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
