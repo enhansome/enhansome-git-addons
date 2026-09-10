@@ -9,7 +9,7 @@ Something awesome happens!
 
 > *“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)*
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,525 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,829 | 🐛 106 | 📅 2026-09-02 list thing.
 
 **Note**: Certain commands may not function immediately after installation. You may need to run a post-install script or manually configure aliases for them to work correctly.
 
@@ -68,7 +68,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 504,525 |
 * [git-exfiltrate](#git-exfiltrate)
 * [git-spend](#git-spend)
 
-## [git-extras](https://github.com/tj/git-extras) ⭐ 18,101 | 🐛 96 | 🌐 Shell | 📅 2026-09-01
+## [git-extras](https://github.com/tj/git-extras) ⭐ 18,101 | 🐛 97 | 🌐 Shell | 📅 2026-09-01
 
 ### squash
 
@@ -573,7 +573,7 @@ $ git flow hotfix delete awesome-release
 $ git flow support
 ```
 
-## [git-up](https://github.com/aanand/git-up) ⭐ 2,586 | 🐛 36 | 🌐 Ruby | 📅 2017-11-07
+## [git-up](https://github.com/aanand/git-up) ⭐ 2,585 | 🐛 36 | 🌐 Ruby | 📅 2017-11-07
 
 ```
 $ git up
@@ -584,7 +584,7 @@ master    fast-forwarding...
 returning to 4.0
 ```
 
-## [hub](https://github.com/github/hub) ⭐ 22,954 | 🐛 295 | 🌐 Go | 📅 2024-02-02
+## [hub](https://github.com/github/hub) ⭐ 22,953 | 🐛 295 | 🌐 Go | 📅 2024-02-02
 
 ### clone
 
@@ -902,7 +902,7 @@ $ git imerge reparent
 67ebc0e6517ac791de6699453b71d2c7fd81ffcd
 ```
 
-## [git-issue](https://github.com/dspinellis/git-issue) ⭐ 883 | 🐛 25 | 🌐 Shell | 📅 2025-10-17
+## [git-issue](https://github.com/dspinellis/git-issue) ⭐ 882 | 🐛 25 | 🌐 Shell | 📅 2025-10-17
 
 ### Initialize issue repository
 
@@ -1111,7 +1111,7 @@ $ git issue show [Tab]
 e6a95c9 - New issue entered from the command line
 ```
 
-## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,484 | 🐛 477 | 🌐 Go | 📅 2026-09-02
+## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,487 | 🐛 477 | 🌐 Go | 📅 2026-09-02
 
 ```
 $ git lfs track "*.mp3"
@@ -1529,7 +1529,7 @@ $ git blame-someone-else 'Steve Mao <maochenyan@gmail.com>' 2efb4e3a061a2e8aaa58
 Steve Mao  is now the author of 2efb4e3. You're officially an asshole.
 ```
 
-## [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,087 | 🐛 5 | 🌐 Perl | 📅 2026-08-31
+## [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,086 | 🐛 5 | 🌐 Perl | 📅 2026-08-31
 
 ```
 $ git dsf
@@ -1541,7 +1541,7 @@ $ git dsf
 
 ![](http://i.imgur.com/PpM0i3v.png)
 
-## [git-secret](https://github.com/sobolevn/git-secret) ⭐ 4,044 | 🐛 153 | 🌐 Shell | 📅 2026-08-24
+## [git-secret](https://github.com/sobolevn/git-secret) ⭐ 4,045 | 🐛 153 | 🌐 Shell | 📅 2026-08-24
 
 ### git secret init
 
@@ -1593,13 +1593,13 @@ File `hideme.txt' exists. Overwrite? (y/N) y
 done. all 1 files are revealed.
 ```
 
-## [git-secrets](https://github.com/awslabs/git-secrets) ⭐ 13,388 | 🐛 131 | 🌐 Shell | 📅 2025-09-17
+## [git-secrets](https://github.com/awslabs/git-secrets) ⭐ 13,391 | 🐛 131 | 🌐 Shell | 📅 2025-09-17
 
 > Prevents you from committing passwords and other sensitive information to a git repository.
 
 TBD - PR Welcome!
 
-## [git-fixup](https://github.com/keis/git-fixup) ⭐ 261 | 🐛 9 | 🌐 Shell | 📅 2026-09-09
+## [git-fixup](https://github.com/keis/git-fixup) ⭐ 261 | 🐛 10 | 🌐 Shell | 📅 2026-09-10
 
 ```
 $ git diff --cached -U0
@@ -1731,7 +1731,7 @@ a1097116 - add versioning to readme (14 hours ago) <Steve Mao>
 6b6e7465 - add test coverage (15 hours ago) <Steve Mao>
 ```
 
-## [commitizen](https://github.com/commitizen/cz-cli) ⭐ 17,498 | 🐛 195 | 🌐 JavaScript | 📅 2026-09-04
+## [commitizen](https://github.com/commitizen/cz-cli) ⭐ 17,497 | 🐛 195 | 🌐 JavaScript | 📅 2026-09-04
 
 ```
 $ git cz
@@ -1907,7 +1907,7 @@ Currently there will be no output in case of success
 
 TBD - PR Welcome!
 
-## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,254 | 🐛 104 | 🌐 Python | 📅 2026-07-09
+## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,259 | 🐛 104 | 🌐 Python | 📅 2026-07-09
 
 TBD - PR Welcome!
 
@@ -2036,4 +2036,4 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
