@@ -18,7 +18,7 @@
             "open_issues": 97,
             "owner": "tj",
             "repo": "git-extras",
-            "stars": 18101,
+            "stars": 18103,
             "topics": [
               "git"
             ]
@@ -588,7 +588,7 @@
             "open_issues": 5,
             "owner": "so-fancy",
             "repo": "diff-so-fancy",
-            "stars": 18086,
+            "stars": 18087,
             "topics": [
               "diff",
               "diff-highlight",
@@ -937,7 +937,7 @@
             "open_issues": 195,
             "owner": "commitizen",
             "repo": "cz-cli",
-            "stars": 17497,
+            "stars": 17499,
             "topics": [
               "command-line",
               "commit-hooks",
@@ -1068,7 +1068,7 @@
             "open_issues": 104,
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13259,
+            "stars": 13267,
             "topics": []
           },
           "title": "filter-repo",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T23:05:55.525Z",
+    "last_updated": "2026-09-11T23:12:12.565Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
@@ -1185,7 +1185,7 @@
       "open_issues": 19,
       "owner": "stevemao",
       "repo": "awesome-git-addons",
-      "stars": 2197,
+      "stars": 2196,
       "topics": [
         "add-on",
         "add-ons",
