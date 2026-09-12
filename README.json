@@ -18,7 +18,7 @@
             "open_issues": 97,
             "owner": "tj",
             "repo": "git-extras",
-            "stars": 18103,
+            "stars": 18104,
             "topics": [
               "git"
             ]
@@ -231,7 +231,7 @@
             "open_issues": 477,
             "owner": "git-lfs",
             "repo": "git-lfs",
-            "stars": 14487,
+            "stars": 14488,
             "topics": [
               "git",
               "git-lfs",
@@ -536,7 +536,7 @@
             "id": 19825320,
             "language": "Gherkin",
             "license": "MIT",
-            "last_commit": "2026-07-26T19:22:59Z",
+            "last_commit": "2026-09-12T17:17:21Z",
             "open_issues": 49,
             "owner": "git-town",
             "repo": "git-town",
@@ -567,7 +567,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11711,
+            "stars": 11710,
             "topics": []
           },
           "title": "git-blame-someone-else",
@@ -588,7 +588,7 @@
             "open_issues": 5,
             "owner": "so-fancy",
             "repo": "diff-so-fancy",
-            "stars": 18087,
+            "stars": 18088,
             "topics": [
               "diff",
               "diff-highlight",
@@ -671,7 +671,7 @@
             "open_issues": 131,
             "owner": "awslabs",
             "repo": "git-secrets",
-            "stars": 13391,
+            "stars": 13393,
             "topics": []
           },
           "title": "git-secrets",
@@ -688,8 +688,8 @@
             "id": 10815432,
             "language": "Shell",
             "license": "ISC",
-            "last_commit": "2026-09-10T15:10:10Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-12T18:16:22Z",
+            "open_issues": 9,
             "owner": "keis",
             "repo": "git-fixup",
             "stars": 261,
@@ -767,7 +767,7 @@
             "open_issues": 1,
             "owner": "felixSchl",
             "repo": "git-fiddle",
-            "stars": 202,
+            "stars": 203,
             "topics": []
           },
           "title": "git-fiddle",
@@ -1047,7 +1047,7 @@
             "open_issues": 45,
             "owner": "mystor",
             "repo": "git-revise",
-            "stars": 862,
+            "stars": 863,
             "topics": []
           },
           "title": "git-revise",
@@ -1068,7 +1068,7 @@
             "open_issues": 104,
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13267,
+            "stars": 13268,
             "topics": []
           },
           "title": "filter-repo",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T23:12:12.565Z",
+    "last_updated": "2026-09-12T22:59:19.443Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
@@ -1185,7 +1185,7 @@
       "open_issues": 19,
       "owner": "stevemao",
       "repo": "awesome-git-addons",
-      "stars": 2196,
+      "stars": 2197,
       "topics": [
         "add-on",
         "add-ons",
