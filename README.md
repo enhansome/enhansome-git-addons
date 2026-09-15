@@ -9,7 +9,7 @@ Something awesome happens!
 
 > *“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)*
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 506,064 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 506,394 | 🐛 106 | 📅 2026-09-02 list thing.
 
 **Note**: Certain commands may not function immediately after installation. You may need to run a post-install script or manually configure aliases for them to work correctly.
 
@@ -68,7 +68,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 506,064 |
 * [git-exfiltrate](#git-exfiltrate)
 * [git-spend](#git-spend)
 
-## [git-extras](https://github.com/tj/git-extras) ⭐ 18,104 | 🐛 97 | 🌐 Shell | 📅 2026-09-01
+## [git-extras](https://github.com/tj/git-extras) ⭐ 18,106 | 🐛 97 | 🌐 Shell | 📅 2026-09-01
 
 ### squash
 
@@ -902,7 +902,7 @@ $ git imerge reparent
 67ebc0e6517ac791de6699453b71d2c7fd81ffcd
 ```
 
-## [git-issue](https://github.com/dspinellis/git-issue) ⭐ 881 | 🐛 25 | 🌐 Shell | 📅 2025-10-17
+## [git-issue](https://github.com/dspinellis/git-issue) ⭐ 882 | 🐛 25 | 🌐 Shell | 📅 2025-10-17
 
 ### Initialize issue repository
 
@@ -1111,7 +1111,7 @@ $ git issue show [Tab]
 e6a95c9 - New issue entered from the command line
 ```
 
-## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,493 | 🐛 477 | 🌐 Go | 📅 2026-09-02
+## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,493 | 🐛 478 | 🌐 Go | 📅 2026-09-02
 
 ```
 $ git lfs track "*.mp3"
@@ -1302,7 +1302,7 @@ $ git branch-status
  master    [current branch]                   [1 ahead of origin/master]
 ```
 
-## [git-open](https://github.com/paulirish/git-open) ⭐ 3,458 | 🐛 50 | 🌐 Shell | 📅 2026-05-25
+## [git-open](https://github.com/paulirish/git-open) ⭐ 3,459 | 🐛 50 | 🌐 Shell | 📅 2026-05-25
 
 ```
 $ git open
@@ -1522,14 +1522,14 @@ open <url to create pull request for current branch>
 Deleted branch my-branch (was 55cb0f7).
 ```
 
-## [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,707 | 🐛 21 | 🌐 Shell | 📅 2023-12-04
+## [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,710 | 🐛 21 | 🌐 Shell | 📅 2023-12-04
 
 ```
 $ git blame-someone-else 'Steve Mao <maochenyan@gmail.com>' 2efb4e3a061a2e8aaa58033e9c13c3e0e5fcde4b
 Steve Mao  is now the author of 2efb4e3. You're officially an asshole.
 ```
 
-## [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,087 | 🐛 5 | 🌐 Perl | 📅 2026-09-14
+## [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,088 | 🐛 5 | 🌐 Perl | 📅 2026-09-14
 
 ```
 $ git dsf
@@ -1615,7 +1615,7 @@ $ git fixup 6d623f6525dd94b4aaea6f6ae2e7a59edc39bdb8
 6d623f6525dd94b4aaea6f6ae2e7a59edc39bdb8 [L] changed gif with text <mail@sobolevn.me>
 ```
 
-## [git-recent](https://github.com/paulirish/git-recent) ⭐ 1,043 | 🐛 6 | 🌐 Shell | 📅 2026-06-04
+## [git-recent](https://github.com/paulirish/git-recent) ⭐ 1,044 | 🐛 6 | 🌐 Shell | 📅 2026-06-04
 
 ```
 $ git recent
@@ -1623,7 +1623,7 @@ $ git recent
 
 ![git-recent screenshot](https://cloud.githubusercontent.com/assets/39191/17446638/039d4cee-5aff-11e6-9e11-4294f0020513.png)
 
-## [git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) ⭐ 1,882 | 🐛 32 | 🌐 Rust | 📅 2026-04-14
+## [git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool) ⭐ 1,883 | 🐛 32 | 🌐 Rust | 📅 2026-04-14
 
 ```
 $ git rebase -i master
@@ -1907,7 +1907,7 @@ Currently there will be no output in case of success
 
 TBD - PR Welcome!
 
-## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,276 | 🐛 104 | 🌐 Python | 📅 2026-07-09
+## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,280 | 🐛 103 | 🌐 Python | 📅 2026-07-09
 
 TBD - PR Welcome!
 
@@ -2036,4 +2036,4 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
