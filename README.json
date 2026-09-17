@@ -85,7 +85,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2024-02-02T21:00:44Z",
-            "open_issues": 295,
+            "open_issues": 296,
             "owner": "mislav",
             "repo": "hub",
             "stars": 22955,
@@ -206,7 +206,7 @@
             "open_issues": 25,
             "owner": "dspinellis",
             "repo": "git-issue",
-            "stars": 883,
+            "stars": 885,
             "topics": [
               "git",
               "issue-management",
@@ -228,10 +228,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-09-02T00:35:37Z",
-            "open_issues": 478,
+            "open_issues": 479,
             "owner": "git-lfs",
             "repo": "git-lfs",
-            "stars": 14497,
+            "stars": 14499,
             "topics": [
               "git",
               "git-lfs",
@@ -540,7 +540,7 @@
             "open_issues": 52,
             "owner": "git-town",
             "repo": "git-town",
-            "stars": 3373,
+            "stars": 3375,
             "topics": [
               "command-line",
               "git",
@@ -719,7 +719,7 @@
             "open_issues": 6,
             "owner": "paulirish",
             "repo": "git-recent",
-            "stars": 1044,
+            "stars": 1045,
             "topics": []
           },
           "title": "git-recent",
@@ -813,7 +813,7 @@
             "open_issues": 66,
             "owner": "donnemartin",
             "repo": "gitsome",
-            "stars": 7691,
+            "stars": 7690,
             "topics": [
               "cli",
               "cli-app",
@@ -1068,7 +1068,7 @@
             "open_issues": 104,
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13285,
+            "stars": 13292,
             "topics": []
           },
           "title": "filter-repo",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T23:37:51.662Z",
+    "last_updated": "2026-09-17T23:30:58.426Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
