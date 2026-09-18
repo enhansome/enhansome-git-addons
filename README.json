@@ -18,7 +18,7 @@
             "open_issues": 100,
             "owner": "tj",
             "repo": "git-extras",
-            "stars": 18106,
+            "stars": 18105,
             "topics": [
               "git"
             ]
@@ -181,7 +181,7 @@
             "open_issues": 79,
             "owner": "mhagger",
             "repo": "git-imerge",
-            "stars": 2845,
+            "stars": 2846,
             "topics": [
               "git",
               "merge-conflicts",
@@ -231,7 +231,7 @@
             "open_issues": 479,
             "owner": "git-lfs",
             "repo": "git-lfs",
-            "stars": 14499,
+            "stars": 14505,
             "topics": [
               "git",
               "git-lfs",
@@ -516,7 +516,7 @@
             "open_issues": 14,
             "owner": "qw3rtman",
             "repo": "git-fire",
-            "stars": 4542,
+            "stars": 4541,
             "topics": [
               "emergency",
               "git"
@@ -671,7 +671,7 @@
             "open_issues": 131,
             "owner": "awslabs",
             "repo": "git-secrets",
-            "stars": 13396,
+            "stars": 13398,
             "topics": []
           },
           "title": "git-secrets",
@@ -740,7 +740,7 @@
             "open_issues": 32,
             "owner": "MitMaro",
             "repo": "git-interactive-rebase-tool",
-            "stars": 1883,
+            "stars": 1884,
             "topics": [
               "cross-platform",
               "editor",
@@ -937,7 +937,7 @@
             "open_issues": 195,
             "owner": "commitizen",
             "repo": "cz-cli",
-            "stars": 17501,
+            "stars": 17502,
             "topics": [
               "command-line",
               "commit-hooks",
@@ -1068,7 +1068,7 @@
             "open_issues": 104,
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13292,
+            "stars": 13296,
             "topics": []
           },
           "title": "filter-repo",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T23:30:58.426Z",
+    "last_updated": "2026-09-18T23:13:59.141Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
@@ -1185,7 +1185,7 @@
       "open_issues": 19,
       "owner": "stevemao",
       "repo": "awesome-git-addons",
-      "stars": 2199,
+      "stars": 2200,
       "topics": [
         "add-on",
         "add-ons",
