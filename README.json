@@ -18,7 +18,7 @@
             "open_issues": 100,
             "owner": "tj",
             "repo": "git-extras",
-            "stars": 18105,
+            "stars": 18106,
             "topics": [
               "git"
             ]
@@ -88,7 +88,7 @@
             "open_issues": 296,
             "owner": "mislav",
             "repo": "hub",
-            "stars": 22955,
+            "stars": 22954,
             "topics": [
               "git",
               "github-api",
@@ -228,7 +228,7 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-09-02T00:35:37Z",
-            "open_issues": 479,
+            "open_issues": 480,
             "owner": "git-lfs",
             "repo": "git-lfs",
             "stars": 14505,
@@ -584,11 +584,11 @@
             "id": 51071818,
             "language": "Perl",
             "license": "MIT",
-            "last_commit": "2026-09-14T21:38:35Z",
+            "last_commit": "2026-09-19T20:49:24Z",
             "open_issues": 5,
             "owner": "so-fancy",
             "repo": "diff-so-fancy",
-            "stars": 18088,
+            "stars": 18089,
             "topics": [
               "diff",
               "diff-highlight",
@@ -671,7 +671,7 @@
             "open_issues": 131,
             "owner": "awslabs",
             "repo": "git-secrets",
-            "stars": 13398,
+            "stars": 13400,
             "topics": []
           },
           "title": "git-secrets",
@@ -908,7 +908,7 @@
             "open_issues": 24,
             "owner": "nilbuild",
             "repo": "git-standup",
-            "stars": 7851,
+            "stars": 7852,
             "topics": [
               "agile",
               "git",
@@ -937,7 +937,7 @@
             "open_issues": 195,
             "owner": "commitizen",
             "repo": "cz-cli",
-            "stars": 17502,
+            "stars": 17501,
             "topics": [
               "command-line",
               "commit-hooks",
@@ -1068,7 +1068,7 @@
             "open_issues": 104,
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13296,
+            "stars": 13302,
             "topics": []
           },
           "title": "filter-repo",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T23:13:59.141Z",
+    "last_updated": "2026-09-19T22:55:27.825Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
