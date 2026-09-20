@@ -9,7 +9,7 @@ Something awesome happens!
 
 > *“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)*
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 507,866 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 508,240 | 🐛 106 | 📅 2026-09-02 list thing.
 
 **Note**: Certain commands may not function immediately after installation. You may need to run a post-install script or manually configure aliases for them to work correctly.
 
@@ -68,7 +68,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 507,866 |
 * [git-exfiltrate](#git-exfiltrate)
 * [git-spend](#git-spend)
 
-## [git-extras](https://github.com/tj/git-extras) ⭐ 18,106 | 🐛 100 | 🌐 Shell | 📅 2026-09-01
+## [git-extras](https://github.com/tj/git-extras) ⭐ 18,106 | 🐛 95 | 🌐 Shell | 📅 2026-09-20
 
 ### squash
 
@@ -1111,7 +1111,7 @@ $ git issue show [Tab]
 e6a95c9 - New issue entered from the command line
 ```
 
-## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,505 | 🐛 480 | 🌐 Go | 📅 2026-09-02
+## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,509 | 🐛 480 | 🌐 Go | 📅 2026-09-02
 
 ```
 $ git lfs track "*.mp3"
@@ -1302,7 +1302,7 @@ $ git branch-status
  master    [current branch]                   [1 ahead of origin/master]
 ```
 
-## [git-open](https://github.com/paulirish/git-open) ⭐ 3,459 | 🐛 50 | 🌐 Shell | 📅 2026-05-25
+## [git-open](https://github.com/paulirish/git-open) ⭐ 3,460 | 🐛 50 | 🌐 Shell | 📅 2026-05-25
 
 ```
 $ git open
@@ -1522,14 +1522,14 @@ open <url to create pull request for current branch>
 Deleted branch my-branch (was 55cb0f7).
 ```
 
-## [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,710 | 🐛 21 | 🌐 Shell | 📅 2023-12-04
+## [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,711 | 🐛 21 | 🌐 Shell | 📅 2023-12-04
 
 ```
 $ git blame-someone-else 'Steve Mao <maochenyan@gmail.com>' 2efb4e3a061a2e8aaa58033e9c13c3e0e5fcde4b
 Steve Mao  is now the author of 2efb4e3. You're officially an asshole.
 ```
 
-## [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,089 | 🐛 5 | 🌐 Perl | 📅 2026-09-19
+## [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,090 | 🐛 5 | 🌐 Perl | 📅 2026-09-19
 
 ```
 $ git dsf
@@ -1541,7 +1541,7 @@ $ git dsf
 
 ![](http://i.imgur.com/PpM0i3v.png)
 
-## [git-secret](https://github.com/sobolevn/git-secret) ⭐ 4,044 | 🐛 153 | 🌐 Shell | 📅 2026-08-24
+## [git-secret](https://github.com/sobolevn/git-secret) ⭐ 4,045 | 🐛 153 | 🌐 Shell | 📅 2026-08-24
 
 ### git secret init
 
@@ -1593,7 +1593,7 @@ File `hideme.txt' exists. Overwrite? (y/N) y
 done. all 1 files are revealed.
 ```
 
-## [git-secrets](https://github.com/awslabs/git-secrets) ⭐ 13,400 | 🐛 131 | 🌐 Shell | 📅 2025-09-17
+## [git-secrets](https://github.com/awslabs/git-secrets) ⭐ 13,399 | 🐛 131 | 🌐 Shell | 📅 2025-09-17
 
 > Prevents you from committing passwords and other sensitive information to a git repository.
 
@@ -1615,7 +1615,7 @@ $ git fixup 6d623f6525dd94b4aaea6f6ae2e7a59edc39bdb8
 6d623f6525dd94b4aaea6f6ae2e7a59edc39bdb8 [L] changed gif with text <mail@sobolevn.me>
 ```
 
-## [git-recent](https://github.com/paulirish/git-recent) ⭐ 1,045 | 🐛 6 | 🌐 Shell | 📅 2026-06-04
+## [git-recent](https://github.com/paulirish/git-recent) ⭐ 1,046 | 🐛 6 | 🌐 Shell | 📅 2026-06-04
 
 ```
 $ git recent
@@ -1716,7 +1716,7 @@ $ git recall -f
 # Fetch commits beforehand.
 ```
 
-## [git-standup](https://github.com/kamranahmedse/git-standup) ⭐ 7,852 | 🐛 24 | 🌐 Shell | 📅 2025-07-07
+## [git-standup](https://github.com/kamranahmedse/git-standup) ⭐ 7,853 | 🐛 24 | 🌐 Shell | 📅 2025-07-07
 
 ```
 $ git standup
@@ -1903,11 +1903,11 @@ $ git profile use work
 
 Currently there will be no output in case of success
 
-## [git-revise](https://github.com/mystor/git-revise) ⭐ 863 | 🐛 45 | 🌐 Python | 📅 2026-06-19
+## [git-revise](https://github.com/mystor/git-revise) ⭐ 864 | 🐛 45 | 🌐 Python | 📅 2026-06-19
 
 TBD - PR Welcome!
 
-## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,302 | 🐛 104 | 🌐 Python | 📅 2026-07-09
+## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,306 | 🐛 104 | 🌐 Python | 📅 2026-07-09
 
 TBD - PR Welcome!
 
@@ -2036,4 +2036,4 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._

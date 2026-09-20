@@ -14,8 +14,8 @@
             "id": 817345,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-01T19:25:50Z",
-            "open_issues": 100,
+            "last_commit": "2026-09-20T04:20:23Z",
+            "open_issues": 95,
             "owner": "tj",
             "repo": "git-extras",
             "stars": 18106,
@@ -231,7 +231,7 @@
             "open_issues": 480,
             "owner": "git-lfs",
             "repo": "git-lfs",
-            "stars": 14505,
+            "stars": 14509,
             "topics": [
               "git",
               "git-lfs",
@@ -416,7 +416,7 @@
             "open_issues": 50,
             "owner": "paulirish",
             "repo": "git-open",
-            "stars": 3459,
+            "stars": 3460,
             "topics": [
               "bitbucket",
               "git",
@@ -567,7 +567,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11710,
+            "stars": 11711,
             "topics": []
           },
           "title": "git-blame-someone-else",
@@ -588,7 +588,7 @@
             "open_issues": 5,
             "owner": "so-fancy",
             "repo": "diff-so-fancy",
-            "stars": 18089,
+            "stars": 18090,
             "topics": [
               "diff",
               "diff-highlight",
@@ -643,7 +643,7 @@
             "open_issues": 153,
             "owner": "sobolevn",
             "repo": "git-secret",
-            "stars": 4044,
+            "stars": 4045,
             "topics": [
               "encryption",
               "git",
@@ -671,7 +671,7 @@
             "open_issues": 131,
             "owner": "awslabs",
             "repo": "git-secrets",
-            "stars": 13400,
+            "stars": 13399,
             "topics": []
           },
           "title": "git-secrets",
@@ -719,7 +719,7 @@
             "open_issues": 6,
             "owner": "paulirish",
             "repo": "git-recent",
-            "stars": 1045,
+            "stars": 1046,
             "topics": []
           },
           "title": "git-recent",
@@ -908,7 +908,7 @@
             "open_issues": 24,
             "owner": "nilbuild",
             "repo": "git-standup",
-            "stars": 7852,
+            "stars": 7853,
             "topics": [
               "agile",
               "git",
@@ -1047,7 +1047,7 @@
             "open_issues": 45,
             "owner": "mystor",
             "repo": "git-revise",
-            "stars": 863,
+            "stars": 864,
             "topics": []
           },
           "title": "git-revise",
@@ -1068,7 +1068,7 @@
             "open_issues": 104,
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13302,
+            "stars": 13306,
             "topics": []
           },
           "title": "filter-repo",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T22:55:27.825Z",
+    "last_updated": "2026-09-20T23:10:38.282Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
@@ -1182,7 +1182,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-10-15T07:18:48Z",
-      "open_issues": 19,
+      "open_issues": 16,
       "owner": "stevemao",
       "repo": "awesome-git-addons",
       "stars": 2200,
