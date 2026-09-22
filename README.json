@@ -18,7 +18,7 @@
             "open_issues": 93,
             "owner": "tj",
             "repo": "git-extras",
-            "stars": 18108,
+            "stars": 18109,
             "topics": [
               "git"
             ]
@@ -88,7 +88,7 @@
             "open_issues": 296,
             "owner": "mislav",
             "repo": "hub",
-            "stars": 22953,
+            "stars": 22954,
             "topics": [
               "git",
               "github-api",
@@ -206,7 +206,7 @@
             "open_issues": 25,
             "owner": "dspinellis",
             "repo": "git-issue",
-            "stars": 885,
+            "stars": 886,
             "topics": [
               "git",
               "issue-management",
@@ -227,11 +227,11 @@
             "id": 13021798,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T00:35:37Z",
-            "open_issues": 481,
+            "last_commit": "2026-09-22T20:34:18Z",
+            "open_issues": 480,
             "owner": "git-lfs",
             "repo": "git-lfs",
-            "stars": 14511,
+            "stars": 14515,
             "topics": [
               "git",
               "git-lfs",
@@ -324,7 +324,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2023-10-09T19:32:28Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "frostming",
             "repo": "legit",
             "stars": 5684,
@@ -489,7 +489,7 @@
             "open_issues": 7,
             "owner": "scottgonzalez",
             "repo": "recursive-blame",
-            "stars": 69,
+            "stars": 70,
             "topics": []
           },
           "title": "recursive-blame",
@@ -516,7 +516,7 @@
             "open_issues": 14,
             "owner": "qw3rtman",
             "repo": "git-fire",
-            "stars": 4540,
+            "stars": 4541,
             "topics": [
               "emergency",
               "git"
@@ -567,7 +567,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11709,
+            "stars": 11710,
             "topics": []
           },
           "title": "git-blame-someone-else",
@@ -616,7 +616,7 @@
             "open_issues": 5,
             "owner": "IonicaBizau",
             "repo": "git-stats",
-            "stars": 6599,
+            "stars": 6600,
             "topics": [
               "calendar",
               "contributions-calendar",
@@ -643,7 +643,7 @@
             "open_issues": 153,
             "owner": "sobolevn",
             "repo": "git-secret",
-            "stars": 4045,
+            "stars": 4046,
             "topics": [
               "encryption",
               "git",
@@ -671,7 +671,7 @@
             "open_issues": 131,
             "owner": "awslabs",
             "repo": "git-secrets",
-            "stars": 13401,
+            "stars": 13402,
             "topics": []
           },
           "title": "git-secrets",
@@ -719,7 +719,7 @@
             "open_issues": 6,
             "owner": "paulirish",
             "repo": "git-recent",
-            "stars": 1046,
+            "stars": 1047,
             "topics": []
           },
           "title": "git-recent",
@@ -813,7 +813,7 @@
             "open_issues": 66,
             "owner": "donnemartin",
             "repo": "gitsome",
-            "stars": 7689,
+            "stars": 7690,
             "topics": [
               "cli",
               "cli-app",
@@ -908,7 +908,7 @@
             "open_issues": 24,
             "owner": "nilbuild",
             "repo": "git-standup",
-            "stars": 7854,
+            "stars": 7857,
             "topics": [
               "agile",
               "git",
@@ -969,7 +969,7 @@
             "open_issues": 5,
             "owner": "imsky",
             "repo": "git-fresh",
-            "stars": 512,
+            "stars": 513,
             "topics": [
               "git",
               "hacktoberfest",
@@ -1068,7 +1068,7 @@
             "open_issues": 104,
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13310,
+            "stars": 13318,
             "topics": []
           },
           "title": "filter-repo",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T00:02:20.995Z",
+    "last_updated": "2026-09-22T23:34:57.041Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
@@ -1185,7 +1185,7 @@
       "open_issues": 16,
       "owner": "stevemao",
       "repo": "awesome-git-addons",
-      "stars": 2200,
+      "stars": 2201,
       "topics": [
         "add-on",
         "add-ons",
