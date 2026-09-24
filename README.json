@@ -18,7 +18,7 @@
             "open_issues": 93,
             "owner": "tj",
             "repo": "git-extras",
-            "stars": 18111,
+            "stars": 18113,
             "topics": [
               "git"
             ]
@@ -41,7 +41,7 @@
             "open_issues": 171,
             "owner": "petervanderdoes",
             "repo": "gitflow-avh",
-            "stars": 5449,
+            "stars": 5448,
             "topics": [
               "git",
               "git-flow",
@@ -88,7 +88,7 @@
             "open_issues": 296,
             "owner": "mislav",
             "repo": "hub",
-            "stars": 22954,
+            "stars": 22955,
             "topics": [
               "git",
               "github-api",
@@ -231,7 +231,7 @@
             "open_issues": 480,
             "owner": "git-lfs",
             "repo": "git-lfs",
-            "stars": 14517,
+            "stars": 14518,
             "topics": [
               "git",
               "git-lfs",
@@ -416,7 +416,7 @@
             "open_issues": 50,
             "owner": "paulirish",
             "repo": "git-open",
-            "stars": 3460,
+            "stars": 3461,
             "topics": [
               "bitbucket",
               "git",
@@ -540,7 +540,7 @@
             "open_issues": 53,
             "owner": "git-town",
             "repo": "git-town",
-            "stars": 3379,
+            "stars": 3378,
             "topics": [
               "command-line",
               "git",
@@ -567,7 +567,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11711,
+            "stars": 11713,
             "topics": []
           },
           "title": "git-blame-someone-else",
@@ -616,7 +616,7 @@
             "open_issues": 5,
             "owner": "IonicaBizau",
             "repo": "git-stats",
-            "stars": 6600,
+            "stars": 6601,
             "topics": [
               "calendar",
               "contributions-calendar",
@@ -643,7 +643,7 @@
             "open_issues": 153,
             "owner": "sobolevn",
             "repo": "git-secret",
-            "stars": 4046,
+            "stars": 4047,
             "topics": [
               "encryption",
               "git",
@@ -671,7 +671,7 @@
             "open_issues": 131,
             "owner": "awslabs",
             "repo": "git-secrets",
-            "stars": 13404,
+            "stars": 13405,
             "topics": []
           },
           "title": "git-secrets",
@@ -740,7 +740,7 @@
             "open_issues": 32,
             "owner": "MitMaro",
             "repo": "git-interactive-rebase-tool",
-            "stars": 1884,
+            "stars": 1885,
             "topics": [
               "cross-platform",
               "editor",
@@ -908,7 +908,7 @@
             "open_issues": 24,
             "owner": "nilbuild",
             "repo": "git-standup",
-            "stars": 7856,
+            "stars": 7857,
             "topics": [
               "agile",
               "git",
@@ -937,7 +937,7 @@
             "open_issues": 195,
             "owner": "commitizen",
             "repo": "cz-cli",
-            "stars": 17501,
+            "stars": 17502,
             "topics": [
               "command-line",
               "commit-hooks",
@@ -1068,7 +1068,7 @@
             "open_issues": 104,
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13322,
+            "stars": 13326,
             "topics": []
           },
           "title": "filter-repo",
@@ -1089,7 +1089,7 @@
             "open_issues": 6,
             "owner": "mykolaharmash",
             "repo": "git-jump",
-            "stars": 215,
+            "stars": 216,
             "topics": [
               "branches",
               "cli",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T23:37:18.502Z",
+    "last_updated": "2026-09-24T23:50:58.665Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
@@ -1182,10 +1182,10 @@
       "language": null,
       "license": null,
       "last_commit": "2024-10-15T07:18:48Z",
-      "open_issues": 16,
+      "open_issues": 17,
       "owner": "stevemao",
       "repo": "awesome-git-addons",
-      "stars": 2201,
+      "stars": 2202,
       "topics": [
         "add-on",
         "add-ons",
