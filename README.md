@@ -9,7 +9,7 @@ Something awesome happens!
 
 > *“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)*
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 510,984 | 🐛 107 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 511,480 | 🐛 106 | 📅 2026-09-02 list thing.
 
 **Note**: Certain commands may not function immediately after installation. You may need to run a post-install script or manually configure aliases for them to work correctly.
 
@@ -68,7 +68,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 510,984 |
 * [git-exfiltrate](#git-exfiltrate)
 * [git-spend](#git-spend)
 
-## [git-extras](https://github.com/tj/git-extras) ⭐ 18,113 | 🐛 93 | 🌐 Shell | 📅 2026-09-21
+## [git-extras](https://github.com/tj/git-extras) ⭐ 18,115 | 🐛 93 | 🌐 Shell | 📅 2026-09-21
 
 ### squash
 
@@ -1111,7 +1111,7 @@ $ git issue show [Tab]
 e6a95c9 - New issue entered from the command line
 ```
 
-## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,517 | 🐛 480 | 🌐 Go | 📅 2026-09-22
+## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,518 | 🐛 480 | 🌐 Go | 📅 2026-09-22
 
 ```
 $ git lfs track "*.mp3"
@@ -1420,7 +1420,7 @@ results in /tmp/word-blame-output/
 
 ![git word-blame on this README](https://user-images.githubusercontent.com/1469823/57202569-0247eb00-6fa7-11e9-8549-f55d81299fab.png)
 
-## [git-fire](https://github.com/qw3rtman/git-fire) ⭐ 4,542 | 🐛 14 | 🌐 Shell | 📅 2022-03-02
+## [git-fire](https://github.com/qw3rtman/git-fire) ⭐ 4,541 | 🐛 14 | 🌐 Shell | 📅 2022-03-02
 
 ```
 $ git fire
@@ -1529,7 +1529,7 @@ $ git blame-someone-else 'Steve Mao <maochenyan@gmail.com>' 2efb4e3a061a2e8aaa58
 Steve Mao  is now the author of 2efb4e3. You're officially an asshole.
 ```
 
-## [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,097 | 🐛 5 | 🌐 Perl | 📅 2026-09-19
+## [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,098 | 🐛 5 | 🌐 Perl | 📅 2026-09-19
 
 ```
 $ git dsf
@@ -1689,7 +1689,7 @@ Saved Profiles:
   work: Dr. Henry Jekyll <henry@jekyll.com>
 ```
 
-## [gitsome](https://github.com/donnemartin/gitsome) ⭐ 7,690 | 🐛 66 | 🌐 Python | 📅 2024-02-08
+## [gitsome](https://github.com/donnemartin/gitsome) ⭐ 7,691 | 🐛 66 | 🌐 Python | 📅 2024-02-08
 
 TBD - PR Welcome!
 
@@ -1731,7 +1731,7 @@ a1097116 - add versioning to readme (14 hours ago) <Steve Mao>
 6b6e7465 - add test coverage (15 hours ago) <Steve Mao>
 ```
 
-## [commitizen](https://github.com/commitizen/cz-cli) ⭐ 17,499 | 🐛 195 | 🌐 JavaScript | 📅 2026-09-25
+## [commitizen](https://github.com/commitizen/cz-cli) ⭐ 17,498 | 🐛 195 | 🌐 JavaScript | 📅 2026-09-25
 
 ```
 $ git cz
@@ -1907,7 +1907,7 @@ Currently there will be no output in case of success
 
 TBD - PR Welcome!
 
-## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,334 | 🐛 104 | 🌐 Python | 📅 2026-07-09
+## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,337 | 🐛 105 | 🌐 Python | 📅 2026-07-09
 
 TBD - PR Welcome!
 
@@ -2036,4 +2036,4 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
