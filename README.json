@@ -18,7 +18,7 @@
             "open_issues": 93,
             "owner": "tj",
             "repo": "git-extras",
-            "stars": 18115,
+            "stars": 18118,
             "topics": [
               "git"
             ]
@@ -181,7 +181,7 @@
             "open_issues": 79,
             "owner": "mhagger",
             "repo": "git-imerge",
-            "stars": 2846,
+            "stars": 2847,
             "topics": [
               "git",
               "merge-conflicts",
@@ -231,7 +231,7 @@
             "open_issues": 481,
             "owner": "git-lfs",
             "repo": "git-lfs",
-            "stars": 14518,
+            "stars": 14520,
             "topics": [
               "git",
               "git-lfs",
@@ -567,7 +567,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11716,
+            "stars": 11715,
             "topics": []
           },
           "title": "git-blame-someone-else",
@@ -588,7 +588,7 @@
             "open_issues": 1,
             "owner": "so-fancy",
             "repo": "diff-so-fancy",
-            "stars": 18099,
+            "stars": 18101,
             "topics": [
               "diff",
               "diff-highlight",
@@ -643,7 +643,7 @@
             "open_issues": 153,
             "owner": "sobolevn",
             "repo": "git-secret",
-            "stars": 4048,
+            "stars": 4049,
             "topics": [
               "encryption",
               "git",
@@ -740,7 +740,7 @@
             "open_issues": 32,
             "owner": "MitMaro",
             "repo": "git-interactive-rebase-tool",
-            "stars": 1885,
+            "stars": 1886,
             "topics": [
               "cross-platform",
               "editor",
@@ -813,7 +813,7 @@
             "open_issues": 66,
             "owner": "donnemartin",
             "repo": "gitsome",
-            "stars": 7692,
+            "stars": 7694,
             "topics": [
               "cli",
               "cli-app",
@@ -883,7 +883,7 @@
             "open_issues": 7,
             "owner": "Fakerr",
             "repo": "git-recall",
-            "stars": 2111,
+            "stars": 2110,
             "topics": [
               "command-line",
               "git",
@@ -937,7 +937,7 @@
             "open_issues": 195,
             "owner": "commitizen",
             "repo": "cz-cli",
-            "stars": 17498,
+            "stars": 17497,
             "topics": [
               "command-line",
               "commit-hooks",
@@ -1047,7 +1047,7 @@
             "open_issues": 45,
             "owner": "mystor",
             "repo": "git-revise",
-            "stars": 864,
+            "stars": 865,
             "topics": []
           },
           "title": "git-revise",
@@ -1068,7 +1068,7 @@
             "open_issues": 105,
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13339,
+            "stars": 13341,
             "topics": []
           },
           "title": "filter-repo",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T00:57:01.875Z",
+    "last_updated": "2026-09-30T00:20:48.614Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
