@@ -15,7 +15,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-09-21T05:58:47Z",
-            "open_issues": 93,
+            "open_issues": 95,
             "owner": "tj",
             "repo": "git-extras",
             "stars": 18118,
@@ -181,7 +181,7 @@
             "open_issues": 79,
             "owner": "mhagger",
             "repo": "git-imerge",
-            "stars": 2847,
+            "stars": 2848,
             "topics": [
               "git",
               "merge-conflicts",
@@ -231,7 +231,7 @@
             "open_issues": 481,
             "owner": "git-lfs",
             "repo": "git-lfs",
-            "stars": 14520,
+            "stars": 14523,
             "topics": [
               "git",
               "git-lfs",
@@ -327,7 +327,7 @@
             "open_issues": 8,
             "owner": "frostming",
             "repo": "legit",
-            "stars": 5685,
+            "stars": 5684,
             "topics": [
               "cli",
               "git",
@@ -540,7 +540,7 @@
             "open_issues": 54,
             "owner": "git-town",
             "repo": "git-town",
-            "stars": 3379,
+            "stars": 3381,
             "topics": [
               "command-line",
               "git",
@@ -567,7 +567,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11715,
+            "stars": 11716,
             "topics": []
           },
           "title": "git-blame-someone-else",
@@ -668,7 +668,7 @@
             "language": "Shell",
             "license": "Apache-2.0",
             "last_commit": "2025-09-17T20:31:20Z",
-            "open_issues": 131,
+            "open_issues": 132,
             "owner": "awslabs",
             "repo": "git-secrets",
             "stars": 13407,
@@ -937,7 +937,7 @@
             "open_issues": 195,
             "owner": "commitizen",
             "repo": "cz-cli",
-            "stars": 17497,
+            "stars": 17496,
             "topics": [
               "command-line",
               "commit-hooks",
@@ -1044,7 +1044,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-06-19T15:44:51Z",
-            "open_issues": 45,
+            "open_issues": 46,
             "owner": "mystor",
             "repo": "git-revise",
             "stars": 865,
@@ -1068,7 +1068,7 @@
             "open_issues": 105,
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13341,
+            "stars": 13345,
             "topics": []
           },
           "title": "filter-repo",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T00:20:48.614Z",
+    "last_updated": "2026-10-01T00:30:33.331Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
