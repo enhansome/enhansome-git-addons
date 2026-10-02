@@ -9,7 +9,7 @@ Something awesome happens!
 
 > *“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)*
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 512,886 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,276 | 🐛 106 | 📅 2026-09-02 list thing.
 
 **Note**: Certain commands may not function immediately after installation. You may need to run a post-install script or manually configure aliases for them to work correctly.
 
@@ -584,7 +584,7 @@ master    fast-forwarding...
 returning to 4.0
 ```
 
-## [hub](https://github.com/github/hub) ⭐ 22,956 | 🐛 296 | 🌐 Go | 📅 2024-02-02
+## [hub](https://github.com/github/hub) ⭐ 22,957 | 🐛 296 | 🌐 Go | 📅 2024-02-02
 
 ### clone
 
@@ -777,7 +777,7 @@ pre-commit/bsd 	- Check for the BSD license.
 /GitHub/git-hooks/.githooks:
 ```
 
-## [git-imerge](https://github.com/mhagger/git-imerge) ⭐ 2,848 | 🐛 79 | 🌐 Python | 📅 2024-07-17
+## [git-imerge](https://github.com/mhagger/git-imerge) ⭐ 2,849 | 🐛 79 | 🌐 Python | 📅 2024-07-17
 
 ### imerge start
 
@@ -1111,7 +1111,7 @@ $ git issue show [Tab]
 e6a95c9 - New issue entered from the command line
 ```
 
-## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,523 | 🐛 481 | 🌐 Go | 📅 2026-09-22
+## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,525 | 🐛 487 | 🌐 Go | 📅 2026-10-01
 
 ```
 $ git lfs track "*.mp3"
@@ -1593,7 +1593,7 @@ File `hideme.txt' exists. Overwrite? (y/N) y
 done. all 1 files are revealed.
 ```
 
-## [git-secrets](https://github.com/awslabs/git-secrets) ⭐ 13,407 | 🐛 132 | 🌐 Shell | 📅 2025-09-17
+## [git-secrets](https://github.com/awslabs/git-secrets) ⭐ 13,408 | 🐛 132 | 🌐 Shell | 📅 2025-09-17
 
 > Prevents you from committing passwords and other sensitive information to a git repository.
 
@@ -1689,7 +1689,7 @@ Saved Profiles:
   work: Dr. Henry Jekyll <henry@jekyll.com>
 ```
 
-## [gitsome](https://github.com/donnemartin/gitsome) ⭐ 7,694 | 🐛 66 | 🌐 Python | 📅 2024-02-08
+## [gitsome](https://github.com/donnemartin/gitsome) ⭐ 7,695 | 🐛 66 | 🌐 Python | 📅 2024-02-08
 
 TBD - PR Welcome!
 
@@ -1731,7 +1731,7 @@ a1097116 - add versioning to readme (14 hours ago) <Steve Mao>
 6b6e7465 - add test coverage (15 hours ago) <Steve Mao>
 ```
 
-## [commitizen](https://github.com/commitizen/cz-cli) ⭐ 17,496 | 🐛 195 | 🌐 JavaScript | 📅 2026-09-25
+## [commitizen](https://github.com/commitizen/cz-cli) ⭐ 17,497 | 🐛 195 | 🌐 JavaScript | 📅 2026-09-25
 
 ```
 $ git cz
@@ -1907,7 +1907,7 @@ Currently there will be no output in case of success
 
 TBD - PR Welcome!
 
-## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,345 | 🐛 105 | 🌐 Python | 📅 2026-07-09
+## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,346 | 🐛 105 | 🌐 Python | 📅 2026-07-09
 
 TBD - PR Welcome!
 
@@ -2036,4 +2036,4 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._

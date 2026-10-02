@@ -88,7 +88,7 @@
             "open_issues": 296,
             "owner": "mislav",
             "repo": "hub",
-            "stars": 22956,
+            "stars": 22957,
             "topics": [
               "git",
               "github-api",
@@ -181,7 +181,7 @@
             "open_issues": 79,
             "owner": "mhagger",
             "repo": "git-imerge",
-            "stars": 2848,
+            "stars": 2849,
             "topics": [
               "git",
               "merge-conflicts",
@@ -227,11 +227,11 @@
             "id": 13021798,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-22T20:34:18Z",
-            "open_issues": 481,
+            "last_commit": "2026-10-01T04:52:14Z",
+            "open_issues": 487,
             "owner": "git-lfs",
             "repo": "git-lfs",
-            "stars": 14523,
+            "stars": 14525,
             "topics": [
               "git",
               "git-lfs",
@@ -671,7 +671,7 @@
             "open_issues": 132,
             "owner": "awslabs",
             "repo": "git-secrets",
-            "stars": 13407,
+            "stars": 13408,
             "topics": []
           },
           "title": "git-secrets",
@@ -813,7 +813,7 @@
             "open_issues": 66,
             "owner": "donnemartin",
             "repo": "gitsome",
-            "stars": 7694,
+            "stars": 7695,
             "topics": [
               "cli",
               "cli-app",
@@ -937,7 +937,7 @@
             "open_issues": 195,
             "owner": "commitizen",
             "repo": "cz-cli",
-            "stars": 17496,
+            "stars": 17497,
             "topics": [
               "command-line",
               "commit-hooks",
@@ -1068,7 +1068,7 @@
             "open_issues": 105,
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13345,
+            "stars": 13346,
             "topics": []
           },
           "title": "filter-repo",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T00:30:33.331Z",
+    "last_updated": "2026-10-02T00:42:01.165Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
