@@ -18,7 +18,7 @@
             "open_issues": 93,
             "owner": "tj",
             "repo": "git-extras",
-            "stars": 18117,
+            "stars": 18118,
             "topics": [
               "git"
             ]
@@ -85,10 +85,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2024-02-02T21:00:44Z",
-            "open_issues": 296,
+            "open_issues": 295,
             "owner": "mislav",
             "repo": "hub",
-            "stars": 22955,
+            "stars": 22953,
             "topics": [
               "git",
               "github-api",
@@ -584,11 +584,11 @@
             "id": 51071818,
             "language": "Perl",
             "license": "MIT",
-            "last_commit": "2026-09-28T20:49:51Z",
+            "last_commit": "2026-10-03T20:48:04Z",
             "open_issues": 1,
             "owner": "so-fancy",
             "repo": "diff-so-fancy",
-            "stars": 18102,
+            "stars": 18101,
             "topics": [
               "diff",
               "diff-highlight",
@@ -643,7 +643,7 @@
             "open_issues": 153,
             "owner": "sobolevn",
             "repo": "git-secret",
-            "stars": 4049,
+            "stars": 4048,
             "topics": [
               "encryption",
               "git",
@@ -937,7 +937,7 @@
             "open_issues": 195,
             "owner": "commitizen",
             "repo": "cz-cli",
-            "stars": 17499,
+            "stars": 17498,
             "topics": [
               "command-line",
               "commit-hooks",
@@ -1068,7 +1068,7 @@
             "open_issues": 104,
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13349,
+            "stars": 13350,
             "topics": []
           },
           "title": "filter-repo",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:45:18.897Z",
+    "last_updated": "2026-10-03T23:44:23.428Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
