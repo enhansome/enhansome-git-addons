@@ -88,7 +88,7 @@
             "open_issues": 295,
             "owner": "mislav",
             "repo": "hub",
-            "stars": 22953,
+            "stars": 22952,
             "topics": [
               "git",
               "github-api",
@@ -585,10 +585,10 @@
             "language": "Perl",
             "license": "MIT",
             "last_commit": "2026-10-03T20:48:04Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "so-fancy",
             "repo": "diff-so-fancy",
-            "stars": 18101,
+            "stars": 18102,
             "topics": [
               "diff",
               "diff-highlight",
@@ -1068,7 +1068,7 @@
             "open_issues": 104,
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13350,
+            "stars": 13352,
             "topics": []
           },
           "title": "filter-repo",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T23:44:23.428Z",
+    "last_updated": "2026-10-04T23:55:55.807Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
