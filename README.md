@@ -9,7 +9,7 @@ Something awesome happens!
 
 > *“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)*
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 514,684 | 🐛 107 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,191 | 🐛 107 | 📅 2026-09-02 list thing.
 
 **Note**: Certain commands may not function immediately after installation. You may need to run a post-install script or manually configure aliases for them to work correctly.
 
@@ -1111,7 +1111,7 @@ $ git issue show [Tab]
 e6a95c9 - New issue entered from the command line
 ```
 
-## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,529 | 🐛 488 | 🌐 Go | 📅 2026-10-01
+## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,530 | 🐛 488 | 🌐 Go | 📅 2026-10-01
 
 ```
 $ git lfs track "*.mp3"
@@ -1212,7 +1212,7 @@ iter commit  tree    result
 0001 10ed389 434370f pass
 ```
 
-## [legit](https://github.com/kennethreitz/legit) ⭐ 5,683 | 🐛 8 | 🌐 Python | 📅 2023-10-09
+## [legit](https://github.com/kennethreitz/legit) ⭐ 5,684 | 🐛 8 | 🌐 Python | 📅 2023-10-09
 
 ### branches
 
@@ -1522,14 +1522,14 @@ open <url to create pull request for current branch>
 Deleted branch my-branch (was 55cb0f7).
 ```
 
-## [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,717 | 🐛 21 | 🌐 Shell | 📅 2023-12-04
+## [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,718 | 🐛 21 | 🌐 Shell | 📅 2023-12-04
 
 ```
 $ git blame-someone-else 'Steve Mao <maochenyan@gmail.com>' 2efb4e3a061a2e8aaa58033e9c13c3e0e5fcde4b
 Steve Mao  is now the author of 2efb4e3. You're officially an asshole.
 ```
 
-## [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,102 | 🐛 2 | 🌐 Perl | 📅 2026-10-03
+## [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,100 | 🐛 1 | 🌐 Perl | 📅 2026-10-06
 
 ```
 $ git dsf
@@ -1537,11 +1537,11 @@ $ git dsf
 
 ![diff-highlight vs diff-so-fancy](https://user-images.githubusercontent.com/3429760/32387617-44c873da-c082-11e7-829c-6160b853adcb.png)
 
-## [git-stats](https://github.com/IonicaBizau/git-stats) ⭐ 6,601 | 🐛 5 | 🌐 HTML | 📅 2025-11-09
+## [git-stats](https://github.com/IonicaBizau/git-stats) ⭐ 6,600 | 🐛 5 | 🌐 HTML | 📅 2025-11-09
 
 ![](http://i.imgur.com/PpM0i3v.png)
 
-## [git-secret](https://github.com/sobolevn/git-secret) ⭐ 4,048 | 🐛 153 | 🌐 Shell | 📅 2026-09-28
+## [git-secret](https://github.com/sobolevn/git-secret) ⭐ 4,047 | 🐛 153 | 🌐 Shell | 📅 2026-09-28
 
 ### git secret init
 
@@ -1615,7 +1615,7 @@ $ git fixup 6d623f6525dd94b4aaea6f6ae2e7a59edc39bdb8
 6d623f6525dd94b4aaea6f6ae2e7a59edc39bdb8 [L] changed gif with text <mail@sobolevn.me>
 ```
 
-## [git-recent](https://github.com/paulirish/git-recent) ⭐ 1,047 | 🐛 6 | 🌐 Shell | 📅 2026-06-04
+## [git-recent](https://github.com/paulirish/git-recent) ⭐ 1,046 | 🐛 6 | 🌐 Shell | 📅 2026-06-04
 
 ```
 $ git recent
@@ -1689,7 +1689,7 @@ Saved Profiles:
   work: Dr. Henry Jekyll <henry@jekyll.com>
 ```
 
-## [gitsome](https://github.com/donnemartin/gitsome) ⭐ 7,695 | 🐛 66 | 🌐 Python | 📅 2024-02-08
+## [gitsome](https://github.com/donnemartin/gitsome) ⭐ 7,692 | 🐛 66 | 🌐 Python | 📅 2024-02-08
 
 TBD - PR Welcome!
 
@@ -1697,7 +1697,7 @@ TBD - PR Welcome!
 
 TBD - PR Welcome!
 
-## [git-recall](https://github.com/Fakerr/git-recall) ⭐ 2,110 | 🐛 7 | 🌐 Shell | 📅 2021-04-22
+## [git-recall](https://github.com/Fakerr/git-recall) ⭐ 2,109 | 🐛 7 | 🌐 Shell | 📅 2021-04-22
 
 ![](https://camo.githubusercontent.com/eb306717b95724c33dd0de91faa535a4818cc7d0/687474703a2f2f696d6775722e636f6d2f7a7577324c71572e676966)
 
@@ -1907,7 +1907,7 @@ Currently there will be no output in case of success
 
 TBD - PR Welcome!
 
-## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,352 | 🐛 104 | 🌐 Python | 📅 2026-07-09
+## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,357 | 🐛 104 | 🌐 Python | 📅 2026-07-09
 
 TBD - PR Welcome!
 
@@ -2036,4 +2036,4 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
