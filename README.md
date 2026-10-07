@@ -9,7 +9,7 @@ Something awesome happens!
 
 > *“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)*
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,357 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,650 | 🐛 106 | 📅 2026-09-02 list thing.
 
 **Note**: Certain commands may not function immediately after installation. You may need to run a post-install script or manually configure aliases for them to work correctly.
 
@@ -68,7 +68,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,357 |
 * [git-exfiltrate](#git-exfiltrate)
 * [git-spend](#git-spend)
 
-## [git-extras](https://github.com/tj/git-extras) ⭐ 18,118 | 🐛 93 | 🌐 Shell | 📅 2026-10-02
+## [git-extras](https://github.com/tj/git-extras) ⭐ 18,119 | 🐛 93 | 🌐 Shell | 📅 2026-10-02
 
 ### squash
 
@@ -1111,7 +1111,7 @@ $ git issue show [Tab]
 e6a95c9 - New issue entered from the command line
 ```
 
-## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,530 | 🐛 488 | 🌐 Go | 📅 2026-10-01
+## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,528 | 🐛 488 | 🌐 Go | 📅 2026-10-01
 
 ```
 $ git lfs track "*.mp3"
@@ -1529,7 +1529,7 @@ $ git blame-someone-else 'Steve Mao <maochenyan@gmail.com>' 2efb4e3a061a2e8aaa58
 Steve Mao  is now the author of 2efb4e3. You're officially an asshole.
 ```
 
-## [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,100 | 🐛 1 | 🌐 Perl | 📅 2026-10-06
+## [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,101 | 🐛 1 | 🌐 Perl | 📅 2026-10-06
 
 ```
 $ git dsf
@@ -1537,11 +1537,11 @@ $ git dsf
 
 ![diff-highlight vs diff-so-fancy](https://user-images.githubusercontent.com/3429760/32387617-44c873da-c082-11e7-829c-6160b853adcb.png)
 
-## [git-stats](https://github.com/IonicaBizau/git-stats) ⭐ 6,600 | 🐛 5 | 🌐 HTML | 📅 2025-11-09
+## [git-stats](https://github.com/IonicaBizau/git-stats) ⭐ 6,599 | 🐛 5 | 🌐 HTML | 📅 2025-11-09
 
 ![](http://i.imgur.com/PpM0i3v.png)
 
-## [git-secret](https://github.com/sobolevn/git-secret) ⭐ 4,047 | 🐛 153 | 🌐 Shell | 📅 2026-09-28
+## [git-secret](https://github.com/sobolevn/git-secret) ⭐ 4,048 | 🐛 153 | 🌐 Shell | 📅 2026-09-28
 
 ### git secret init
 
@@ -1593,7 +1593,7 @@ File `hideme.txt' exists. Overwrite? (y/N) y
 done. all 1 files are revealed.
 ```
 
-## [git-secrets](https://github.com/awslabs/git-secrets) ⭐ 13,410 | 🐛 132 | 🌐 Shell | 📅 2025-09-17
+## [git-secrets](https://github.com/awslabs/git-secrets) ⭐ 13,411 | 🐛 132 | 🌐 Shell | 📅 2025-09-17
 
 > Prevents you from committing passwords and other sensitive information to a git repository.
 
@@ -1689,7 +1689,7 @@ Saved Profiles:
   work: Dr. Henry Jekyll <henry@jekyll.com>
 ```
 
-## [gitsome](https://github.com/donnemartin/gitsome) ⭐ 7,692 | 🐛 66 | 🌐 Python | 📅 2024-02-08
+## [gitsome](https://github.com/donnemartin/gitsome) ⭐ 7,691 | 🐛 66 | 🌐 Python | 📅 2024-02-08
 
 TBD - PR Welcome!
 
@@ -1907,7 +1907,7 @@ Currently there will be no output in case of success
 
 TBD - PR Welcome!
 
-## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,357 | 🐛 104 | 🌐 Python | 📅 2026-07-09
+## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,362 | 🐛 104 | 🌐 Python | 📅 2026-07-09
 
 TBD - PR Welcome!
 
@@ -2036,4 +2036,4 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
