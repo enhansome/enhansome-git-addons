@@ -15,10 +15,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-10-02T22:43:46Z",
-            "open_issues": 93,
+            "open_issues": 94,
             "owner": "tj",
             "repo": "git-extras",
-            "stars": 18119,
+            "stars": 18120,
             "topics": [
               "git"
             ]
@@ -88,7 +88,7 @@
             "open_issues": 295,
             "owner": "mislav",
             "repo": "hub",
-            "stars": 22952,
+            "stars": 22953,
             "topics": [
               "git",
               "github-api",
@@ -228,10 +228,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-10-01T04:52:14Z",
-            "open_issues": 488,
+            "open_issues": 489,
             "owner": "git-lfs",
             "repo": "git-lfs",
-            "stars": 14528,
+            "stars": 14530,
             "topics": [
               "git",
               "git-lfs",
@@ -327,7 +327,7 @@
             "open_issues": 8,
             "owner": "frostming",
             "repo": "legit",
-            "stars": 5684,
+            "stars": 5683,
             "topics": [
               "cli",
               "git",
@@ -416,7 +416,7 @@
             "open_issues": 51,
             "owner": "paulirish",
             "repo": "git-open",
-            "stars": 3461,
+            "stars": 3462,
             "topics": [
               "bitbucket",
               "git",
@@ -516,7 +516,7 @@
             "open_issues": 14,
             "owner": "qw3rtman",
             "repo": "git-fire",
-            "stars": 4541,
+            "stars": 4540,
             "topics": [
               "emergency",
               "git"
@@ -567,7 +567,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11718,
+            "stars": 11717,
             "topics": []
           },
           "title": "git-blame-someone-else",
@@ -588,7 +588,7 @@
             "open_issues": 1,
             "owner": "so-fancy",
             "repo": "diff-so-fancy",
-            "stars": 18101,
+            "stars": 18102,
             "topics": [
               "diff",
               "diff-highlight",
@@ -643,7 +643,7 @@
             "open_issues": 153,
             "owner": "sobolevn",
             "repo": "git-secret",
-            "stars": 4048,
+            "stars": 4055,
             "topics": [
               "encryption",
               "git",
@@ -813,7 +813,7 @@
             "open_issues": 66,
             "owner": "donnemartin",
             "repo": "gitsome",
-            "stars": 7691,
+            "stars": 7692,
             "topics": [
               "cli",
               "cli-app",
@@ -937,7 +937,7 @@
             "open_issues": 195,
             "owner": "commitizen",
             "repo": "cz-cli",
-            "stars": 17498,
+            "stars": 17499,
             "topics": [
               "command-line",
               "commit-hooks",
@@ -1047,7 +1047,7 @@
             "open_issues": 46,
             "owner": "mystor",
             "repo": "git-revise",
-            "stars": 865,
+            "stars": 866,
             "topics": []
           },
           "title": "git-revise",
@@ -1068,7 +1068,7 @@
             "open_issues": 104,
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13362,
+            "stars": 13366,
             "topics": []
           },
           "title": "filter-repo",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T00:36:52.984Z",
+    "last_updated": "2026-10-08T00:56:00.039Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
@@ -1185,7 +1185,7 @@
       "open_issues": 17,
       "owner": "stevemao",
       "repo": "awesome-git-addons",
-      "stars": 2203,
+      "stars": 2204,
       "topics": [
         "add-on",
         "add-ons",
