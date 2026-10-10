@@ -9,7 +9,7 @@ Something awesome happens!
 
 > *“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)*
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,347 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,791 | 🐛 106 | 📅 2026-09-02 list thing.
 
 **Note**: Certain commands may not function immediately after installation. You may need to run a post-install script or manually configure aliases for them to work correctly.
 
@@ -68,7 +68,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 516,347 |
 * [git-exfiltrate](#git-exfiltrate)
 * [git-spend](#git-spend)
 
-## [git-extras](https://github.com/tj/git-extras) ⭐ 18,118 | 🐛 92 | 🌐 Shell | 📅 2026-10-08
+## [git-extras](https://github.com/tj/git-extras) ⭐ 18,119 | 🐛 92 | 🌐 Shell | 📅 2026-10-08
 
 ### squash
 
@@ -584,7 +584,7 @@ master    fast-forwarding...
 returning to 4.0
 ```
 
-## [hub](https://github.com/github/hub) ⭐ 22,952 | 🐛 295 | 🌐 Go | 📅 2024-02-02
+## [hub](https://github.com/github/hub) ⭐ 22,953 | 🐛 295 | 🌐 Go | 📅 2024-02-02
 
 ### clone
 
@@ -1111,7 +1111,7 @@ $ git issue show [Tab]
 e6a95c9 - New issue entered from the command line
 ```
 
-## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,531 | 🐛 490 | 🌐 Go | 📅 2026-10-01
+## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,538 | 🐛 490 | 🌐 Go | 📅 2026-10-01
 
 ```
 $ git lfs track "*.mp3"
@@ -1438,7 +1438,7 @@ Branch fire-master-maochenyan@gmail.com-1451379915 set up to track remote branch
 Leave building!
 ```
 
-## [Git Town](https://github.com/git-town/git-town) ⭐ 3,381 | 🐛 55 | 🌐 Gherkin | 📅 2026-09-26
+## [Git Town](https://github.com/git-town/git-town) ⭐ 3,381 | 🐛 54 | 🌐 Gherkin | 📅 2026-09-26
 
 ### git hack
 
@@ -1522,14 +1522,14 @@ open <url to create pull request for current branch>
 Deleted branch my-branch (was 55cb0f7).
 ```
 
-## [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,717 | 🐛 21 | 🌐 Shell | 📅 2023-12-04
+## [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,716 | 🐛 21 | 🌐 Shell | 📅 2023-12-04
 
 ```
 $ git blame-someone-else 'Steve Mao <maochenyan@gmail.com>' 2efb4e3a061a2e8aaa58033e9c13c3e0e5fcde4b
 Steve Mao  is now the author of 2efb4e3. You're officially an asshole.
 ```
 
-## [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,103 | 🐛 1 | 🌐 Perl | 📅 2026-10-06
+## [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,102 | 🐛 1 | 🌐 Perl | 📅 2026-10-06
 
 ```
 $ git dsf
@@ -1593,7 +1593,7 @@ File `hideme.txt' exists. Overwrite? (y/N) y
 done. all 1 files are revealed.
 ```
 
-## [git-secrets](https://github.com/awslabs/git-secrets) ⭐ 13,410 | 🐛 132 | 🌐 Shell | 📅 2025-09-17
+## [git-secrets](https://github.com/awslabs/git-secrets) ⭐ 13,411 | 🐛 132 | 🌐 Shell | 📅 2025-09-17
 
 > Prevents you from committing passwords and other sensitive information to a git repository.
 
@@ -1689,7 +1689,7 @@ Saved Profiles:
   work: Dr. Henry Jekyll <henry@jekyll.com>
 ```
 
-## [gitsome](https://github.com/donnemartin/gitsome) ⭐ 7,692 | 🐛 66 | 🌐 Python | 📅 2024-02-08
+## [gitsome](https://github.com/donnemartin/gitsome) ⭐ 7,693 | 🐛 66 | 🌐 Python | 📅 2024-02-08
 
 TBD - PR Welcome!
 
@@ -1716,7 +1716,7 @@ $ git recall -f
 # Fetch commits beforehand.
 ```
 
-## [git-standup](https://github.com/kamranahmedse/git-standup) ⭐ 7,856 | 🐛 24 | 🌐 Shell | 📅 2025-07-07
+## [git-standup](https://github.com/kamranahmedse/git-standup) ⭐ 7,857 | 🐛 24 | 🌐 Shell | 📅 2025-07-07
 
 ```
 $ git standup
@@ -1731,7 +1731,7 @@ a1097116 - add versioning to readme (14 hours ago) <Steve Mao>
 6b6e7465 - add test coverage (15 hours ago) <Steve Mao>
 ```
 
-## [commitizen](https://github.com/commitizen/cz-cli) ⭐ 17,498 | 🐛 195 | 🌐 JavaScript | 📅 2026-09-25
+## [commitizen](https://github.com/commitizen/cz-cli) ⭐ 17,495 | 🐛 195 | 🌐 JavaScript | 📅 2026-09-25
 
 ```
 $ git cz
@@ -1903,11 +1903,11 @@ $ git profile use work
 
 Currently there will be no output in case of success
 
-## [git-revise](https://github.com/mystor/git-revise) ⭐ 866 | 🐛 46 | 🌐 Python | 📅 2026-06-19
+## [git-revise](https://github.com/mystor/git-revise) ⭐ 865 | 🐛 46 | 🌐 Python | 📅 2026-06-19
 
 TBD - PR Welcome!
 
-## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,370 | 🐛 104 | 🌐 Python | 📅 2026-07-09
+## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,372 | 🐛 104 | 🌐 Python | 📅 2026-07-09
 
 TBD - PR Welcome!
 
@@ -2036,4 +2036,4 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
