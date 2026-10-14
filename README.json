@@ -18,7 +18,7 @@
             "open_issues": 92,
             "owner": "tj",
             "repo": "git-extras",
-            "stars": 18120,
+            "stars": 18119,
             "topics": [
               "git"
             ]
@@ -228,10 +228,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-10-01T04:52:14Z",
-            "open_issues": 491,
+            "open_issues": 492,
             "owner": "git-lfs",
             "repo": "git-lfs",
-            "stars": 14547,
+            "stars": 14546,
             "topics": [
               "git",
               "git-lfs",
@@ -327,7 +327,7 @@
             "open_issues": 8,
             "owner": "frostming",
             "repo": "legit",
-            "stars": 5682,
+            "stars": 5681,
             "topics": [
               "cli",
               "git",
@@ -540,7 +540,7 @@
             "open_issues": 53,
             "owner": "git-town",
             "repo": "git-town",
-            "stars": 3384,
+            "stars": 3385,
             "topics": [
               "command-line",
               "git",
@@ -567,7 +567,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11717,
+            "stars": 11719,
             "topics": []
           },
           "title": "git-blame-someone-else",
@@ -588,7 +588,7 @@
             "open_issues": 1,
             "owner": "so-fancy",
             "repo": "diff-so-fancy",
-            "stars": 18105,
+            "stars": 18106,
             "topics": [
               "diff",
               "diff-highlight",
@@ -740,7 +740,7 @@
             "open_issues": 32,
             "owner": "MitMaro",
             "repo": "git-interactive-rebase-tool",
-            "stars": 1887,
+            "stars": 1886,
             "topics": [
               "cross-platform",
               "editor",
@@ -813,7 +813,7 @@
             "open_issues": 66,
             "owner": "donnemartin",
             "repo": "gitsome",
-            "stars": 7693,
+            "stars": 7694,
             "topics": [
               "cli",
               "cli-app",
@@ -908,7 +908,7 @@
             "open_issues": 24,
             "owner": "nilbuild",
             "repo": "git-standup",
-            "stars": 7857,
+            "stars": 7856,
             "topics": [
               "agile",
               "git",
@@ -937,7 +937,7 @@
             "open_issues": 195,
             "owner": "commitizen",
             "repo": "cz-cli",
-            "stars": 17496,
+            "stars": 17497,
             "topics": [
               "command-line",
               "commit-hooks",
@@ -1065,10 +1065,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-07-09T22:09:49Z",
-            "open_issues": 106,
+            "open_issues": 107,
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13391,
+            "stars": 13392,
             "topics": []
           },
           "title": "filter-repo",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T00:15:13.340Z",
+    "last_updated": "2026-10-14T23:53:11.496Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
@@ -1182,7 +1182,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-10-15T07:18:48Z",
-      "open_issues": 18,
+      "open_issues": 17,
       "owner": "stevemao",
       "repo": "awesome-git-addons",
       "stars": 2208,
