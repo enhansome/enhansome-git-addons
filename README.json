@@ -18,7 +18,7 @@
             "open_issues": 92,
             "owner": "tj",
             "repo": "git-extras",
-            "stars": 18119,
+            "stars": 18122,
             "topics": [
               "git"
             ]
@@ -41,7 +41,7 @@
             "open_issues": 171,
             "owner": "petervanderdoes",
             "repo": "gitflow-avh",
-            "stars": 5444,
+            "stars": 5443,
             "topics": [
               "git",
               "git-flow",
@@ -88,7 +88,7 @@
             "open_issues": 295,
             "owner": "mislav",
             "repo": "hub",
-            "stars": 22953,
+            "stars": 22952,
             "topics": [
               "git",
               "github-api",
@@ -231,7 +231,7 @@
             "open_issues": 492,
             "owner": "git-lfs",
             "repo": "git-lfs",
-            "stars": 14546,
+            "stars": 14547,
             "topics": [
               "git",
               "git-lfs",
@@ -536,11 +536,11 @@
             "id": 19825320,
             "language": "Gherkin",
             "license": "MIT",
-            "last_commit": "2026-10-13T13:41:49Z",
-            "open_issues": 53,
+            "last_commit": "2026-10-15T11:25:35Z",
+            "open_issues": 54,
             "owner": "git-town",
             "repo": "git-town",
-            "stars": 3385,
+            "stars": 3386,
             "topics": [
               "command-line",
               "git",
@@ -567,7 +567,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11719,
+            "stars": 11718,
             "topics": []
           },
           "title": "git-blame-someone-else",
@@ -584,11 +584,11 @@
             "id": 51071818,
             "language": "Perl",
             "license": "MIT",
-            "last_commit": "2026-10-06T00:10:34Z",
+            "last_commit": "2026-10-15T22:58:33Z",
             "open_issues": 1,
             "owner": "so-fancy",
             "repo": "diff-so-fancy",
-            "stars": 18106,
+            "stars": 18105,
             "topics": [
               "diff",
               "diff-highlight",
@@ -668,10 +668,10 @@
             "language": "Shell",
             "license": "Apache-2.0",
             "last_commit": "2025-09-17T20:31:20Z",
-            "open_issues": 132,
+            "open_issues": 131,
             "owner": "awslabs",
             "repo": "git-secrets",
-            "stars": 13414,
+            "stars": 13413,
             "topics": []
           },
           "title": "git-secrets",
@@ -813,7 +813,7 @@
             "open_issues": 66,
             "owner": "donnemartin",
             "repo": "gitsome",
-            "stars": 7694,
+            "stars": 7693,
             "topics": [
               "cli",
               "cli-app",
@@ -934,10 +934,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-25T03:38:33Z",
-            "open_issues": 195,
+            "open_issues": 194,
             "owner": "commitizen",
             "repo": "cz-cli",
-            "stars": 17497,
+            "stars": 17498,
             "topics": [
               "command-line",
               "commit-hooks",
@@ -1068,7 +1068,7 @@
             "open_issues": 107,
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13392,
+            "stars": 13401,
             "topics": []
           },
           "title": "filter-repo",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T23:53:11.496Z",
+    "last_updated": "2026-10-15T23:39:30.742Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
