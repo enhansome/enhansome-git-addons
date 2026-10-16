@@ -18,7 +18,7 @@
             "open_issues": 92,
             "owner": "tj",
             "repo": "git-extras",
-            "stars": 18122,
+            "stars": 18123,
             "topics": [
               "git"
             ]
@@ -41,7 +41,7 @@
             "open_issues": 171,
             "owner": "petervanderdoes",
             "repo": "gitflow-avh",
-            "stars": 5443,
+            "stars": 5442,
             "topics": [
               "git",
               "git-flow",
@@ -85,10 +85,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2024-02-02T21:00:44Z",
-            "open_issues": 295,
+            "open_issues": 294,
             "owner": "mislav",
             "repo": "hub",
-            "stars": 22952,
+            "stars": 22953,
             "topics": [
               "git",
               "github-api",
@@ -231,7 +231,7 @@
             "open_issues": 492,
             "owner": "git-lfs",
             "repo": "git-lfs",
-            "stars": 14547,
+            "stars": 14548,
             "topics": [
               "git",
               "git-lfs",
@@ -516,7 +516,7 @@
             "open_issues": 15,
             "owner": "qw3rtman",
             "repo": "git-fire",
-            "stars": 4540,
+            "stars": 4539,
             "topics": [
               "emergency",
               "git"
@@ -536,8 +536,8 @@
             "id": 19825320,
             "language": "Gherkin",
             "license": "MIT",
-            "last_commit": "2026-10-15T11:25:35Z",
-            "open_issues": 54,
+            "last_commit": "2026-10-16T13:40:55Z",
+            "open_issues": 53,
             "owner": "git-town",
             "repo": "git-town",
             "stars": 3386,
@@ -588,7 +588,7 @@
             "open_issues": 1,
             "owner": "so-fancy",
             "repo": "diff-so-fancy",
-            "stars": 18105,
+            "stars": 18103,
             "topics": [
               "diff",
               "diff-highlight",
@@ -671,7 +671,7 @@
             "open_issues": 131,
             "owner": "awslabs",
             "repo": "git-secrets",
-            "stars": 13413,
+            "stars": 13415,
             "topics": []
           },
           "title": "git-secrets",
@@ -937,7 +937,7 @@
             "open_issues": 194,
             "owner": "commitizen",
             "repo": "cz-cli",
-            "stars": 17498,
+            "stars": 17497,
             "topics": [
               "command-line",
               "commit-hooks",
@@ -1047,7 +1047,7 @@
             "open_issues": 46,
             "owner": "mystor",
             "repo": "git-revise",
-            "stars": 865,
+            "stars": 864,
             "topics": []
           },
           "title": "git-revise",
@@ -1068,7 +1068,7 @@
             "open_issues": 107,
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13401,
+            "stars": 13402,
             "topics": []
           },
           "title": "filter-repo",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T23:39:30.742Z",
+    "last_updated": "2026-10-16T23:30:03.999Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
