@@ -18,7 +18,7 @@
             "open_issues": 92,
             "owner": "tj",
             "repo": "git-extras",
-            "stars": 18123,
+            "stars": 18124,
             "topics": [
               "git"
             ]
@@ -181,7 +181,7 @@
             "open_issues": 79,
             "owner": "mhagger",
             "repo": "git-imerge",
-            "stars": 2848,
+            "stars": 2849,
             "topics": [
               "git",
               "merge-conflicts",
@@ -227,11 +227,11 @@
             "id": 13021798,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-22T23:27:05Z",
+            "last_commit": "2026-10-23T18:50:59Z",
             "open_issues": 497,
             "owner": "git-lfs",
             "repo": "git-lfs",
-            "stars": 14556,
+            "stars": 14558,
             "topics": [
               "git",
               "git-lfs",
@@ -536,11 +536,11 @@
             "id": 19825320,
             "language": "Gherkin",
             "license": "MIT",
-            "last_commit": "2026-10-19T10:39:42Z",
+            "last_commit": "2026-10-23T11:04:51Z",
             "open_issues": 52,
             "owner": "git-town",
             "repo": "git-town",
-            "stars": 3391,
+            "stars": 3390,
             "topics": [
               "command-line",
               "git",
@@ -567,7 +567,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11719,
+            "stars": 11722,
             "topics": []
           },
           "title": "git-blame-someone-else",
@@ -585,7 +585,7 @@
             "language": "Perl",
             "license": "MIT",
             "last_commit": "2026-10-18T18:29:14Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "so-fancy",
             "repo": "diff-so-fancy",
             "stars": 18103,
@@ -671,7 +671,7 @@
             "open_issues": 131,
             "owner": "awslabs",
             "repo": "git-secrets",
-            "stars": 13417,
+            "stars": 13418,
             "topics": []
           },
           "title": "git-secrets",
@@ -740,7 +740,7 @@
             "open_issues": 32,
             "owner": "MitMaro",
             "repo": "git-interactive-rebase-tool",
-            "stars": 1886,
+            "stars": 1885,
             "topics": [
               "cross-platform",
               "editor",
@@ -908,7 +908,7 @@
             "open_issues": 24,
             "owner": "nilbuild",
             "repo": "git-standup",
-            "stars": 7856,
+            "stars": 7855,
             "topics": [
               "agile",
               "git",
@@ -1068,7 +1068,7 @@
             "open_issues": 109,
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13431,
+            "stars": 13434,
             "topics": []
           },
           "title": "filter-repo",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T23:57:16.633Z",
+    "last_updated": "2026-10-23T23:50:05.624Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
