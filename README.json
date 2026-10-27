@@ -18,7 +18,7 @@
             "open_issues": 92,
             "owner": "tj",
             "repo": "git-extras",
-            "stars": 18125,
+            "stars": 18123,
             "topics": [
               "git"
             ]
@@ -231,7 +231,7 @@
             "open_issues": 499,
             "owner": "git-lfs",
             "repo": "git-lfs",
-            "stars": 14561,
+            "stars": 14565,
             "topics": [
               "git",
               "git-lfs",
@@ -537,10 +537,10 @@
             "language": "Gherkin",
             "license": "MIT",
             "last_commit": "2026-10-23T11:04:51Z",
-            "open_issues": 52,
+            "open_issues": 53,
             "owner": "git-town",
             "repo": "git-town",
-            "stars": 3390,
+            "stars": 3391,
             "topics": [
               "command-line",
               "git",
@@ -567,7 +567,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11724,
+            "stars": 11725,
             "topics": []
           },
           "title": "git-blame-someone-else",
@@ -1068,7 +1068,7 @@
             "open_issues": 109,
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13443,
+            "stars": 13446,
             "topics": []
           },
           "title": "filter-repo",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T23:10:12.491Z",
+    "last_updated": "2026-10-27T00:21:45.171Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
@@ -1185,7 +1185,7 @@
       "open_issues": 18,
       "owner": "stevemao",
       "repo": "awesome-git-addons",
-      "stars": 2212,
+      "stars": 2213,
       "topics": [
         "add-on",
         "add-ons",
