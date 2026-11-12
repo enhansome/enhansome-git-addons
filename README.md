@@ -9,7 +9,7 @@ Something awesome happens!
 
 > *“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)*
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 534,889 | 🐛 103 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,397 | 🐛 103 | 📅 2026-09-02 list thing.
 
 **Note**: Certain commands may not function immediately after installation. You may need to run a post-install script or manually configure aliases for them to work correctly.
 
@@ -68,7 +68,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 534,889 |
 * [git-exfiltrate](#git-exfiltrate)
 * [git-spend](#git-spend)
 
-## [git-extras](https://github.com/tj/git-extras) ⭐ 18,130 | 🐛 93 | 🌐 Shell | 📅 2026-11-09
+## [git-extras](https://github.com/tj/git-extras) ⭐ 18,130 | 🐛 92 | 🌐 Shell | 📅 2026-11-11
 
 ### squash
 
@@ -573,7 +573,7 @@ $ git flow hotfix delete awesome-release
 $ git flow support
 ```
 
-## [git-up](https://github.com/aanand/git-up) ⭐ 2,584 | 🐛 36 | 🌐 Ruby | 📅 2017-11-07
+## [git-up](https://github.com/aanand/git-up) ⭐ 2,583 | 🐛 36 | 🌐 Ruby | 📅 2017-11-07
 
 ```
 $ git up
@@ -584,7 +584,7 @@ master    fast-forwarding...
 returning to 4.0
 ```
 
-## [hub](https://github.com/github/hub) ⭐ 22,958 | 🐛 294 | 🌐 Go | 📅 2024-02-02
+## [hub](https://github.com/github/hub) ⭐ 22,956 | 🐛 294 | 🌐 Go | 📅 2024-02-02
 
 ### clone
 
@@ -755,7 +755,7 @@ $ git deploy init
 $ git push production master
 ```
 
-## [git-cal](https://github.com/k4rthik/git-cal) ⭐ 1,124 | 🐛 18 | 🌐 Perl | 📅 2017-02-01
+## [git-cal](https://github.com/k4rthik/git-cal) ⭐ 1,123 | 🐛 18 | 🌐 Perl | 📅 2017-02-01
 
 ![68747470733a2f2f7261772e6769746875622e636f6d2f6b34727468696b2f6769742d63616c2f6d61737465722f73637265656e73686f74732f696d67322e706e67](https://cloud.githubusercontent.com/assets/6316590/12465623/17d828ea-c023-11e5-8077-2e9a284defd6.png)
 
@@ -1111,7 +1111,7 @@ $ git issue show [Tab]
 e6a95c9 - New issue entered from the command line
 ```
 
-## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,587 | 🐛 507 | 🌐 Go | 📅 2026-11-06
+## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,589 | 🐛 507 | 🌐 Go | 📅 2026-11-06
 
 ```
 $ git lfs track "*.mp3"
@@ -1161,7 +1161,7 @@ Date:   Thu Aug 27 10:39:10 2015 +1000
        "author": "Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
 ```
 
-## [git-plus](https://github.com/tkrajina/git-plus) ⭐ 200 | 🐛 5 | 🌐 Python | 📅 2026-06-14
+## [git-plus](https://github.com/tkrajina/git-plus) ⭐ 200 | 🐛 4 | 🌐 Python | 📅 2026-06-14
 
 ### multi
 
@@ -1438,7 +1438,7 @@ Branch fire-master-maochenyan@gmail.com-1451379915 set up to track remote branch
 Leave building!
 ```
 
-## [Git Town](https://github.com/git-town/git-town) ⭐ 3,395 | 🐛 59 | 🌐 Gherkin | 📅 2026-11-10
+## [Git Town](https://github.com/git-town/git-town) ⭐ 3,395 | 🐛 58 | 🌐 Gherkin | 📅 2026-11-12
 
 ### git hack
 
@@ -1522,14 +1522,14 @@ open <url to create pull request for current branch>
 Deleted branch my-branch (was 55cb0f7).
 ```
 
-## [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,727 | 🐛 21 | 🌐 Shell | 📅 2023-12-04
+## [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,729 | 🐛 21 | 🌐 Shell | 📅 2023-12-04
 
 ```
 $ git blame-someone-else 'Steve Mao <maochenyan@gmail.com>' 2efb4e3a061a2e8aaa58033e9c13c3e0e5fcde4b
 Steve Mao  is now the author of 2efb4e3. You're officially an asshole.
 ```
 
-## [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,115 | 🐛 2 | 🌐 Perl | 📅 2026-10-18
+## [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,116 | 🐛 2 | 🌐 Perl | 📅 2026-10-18
 
 ```
 $ git dsf
@@ -1689,7 +1689,7 @@ Saved Profiles:
   work: Dr. Henry Jekyll <henry@jekyll.com>
 ```
 
-## [gitsome](https://github.com/donnemartin/gitsome) ⭐ 7,694 | 🐛 66 | 🌐 Python | 📅 2024-02-08
+## [gitsome](https://github.com/donnemartin/gitsome) ⭐ 7,695 | 🐛 66 | 🌐 Python | 📅 2024-02-08
 
 TBD - PR Welcome!
 
@@ -1697,7 +1697,7 @@ TBD - PR Welcome!
 
 TBD - PR Welcome!
 
-## [git-recall](https://github.com/Fakerr/git-recall) ⭐ 2,107 | 🐛 7 | 🌐 Shell | 📅 2021-04-22
+## [git-recall](https://github.com/Fakerr/git-recall) ⭐ 2,106 | 🐛 7 | 🌐 Shell | 📅 2021-04-22
 
 ![](https://camo.githubusercontent.com/eb306717b95724c33dd0de91faa535a4818cc7d0/687474703a2f2f696d6775722e636f6d2f7a7577324c71572e676966)
 
@@ -1731,7 +1731,7 @@ a1097116 - add versioning to readme (14 hours ago) <Steve Mao>
 6b6e7465 - add test coverage (15 hours ago) <Steve Mao>
 ```
 
-## [commitizen](https://github.com/commitizen/cz-cli) ⭐ 17,502 | 🐛 195 | 🌐 JavaScript | 📅 2026-09-25
+## [commitizen](https://github.com/commitizen/cz-cli) ⭐ 17,503 | 🐛 195 | 🌐 JavaScript | 📅 2026-09-25
 
 ```
 $ git cz
@@ -1907,7 +1907,7 @@ Currently there will be no output in case of success
 
 TBD - PR Welcome!
 
-## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,503 | 🐛 113 | 🌐 Python | 📅 2026-07-09
+## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,512 | 🐛 113 | 🌐 Python | 📅 2026-07-09
 
 TBD - PR Welcome!
 
@@ -2036,4 +2036,4 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
