@@ -9,7 +9,7 @@ Something awesome happens!
 
 > *“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)*
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,397 | 🐛 103 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,969 | 🐛 103 | 📅 2026-09-02 list thing.
 
 **Note**: Certain commands may not function immediately after installation. You may need to run a post-install script or manually configure aliases for them to work correctly.
 
@@ -68,7 +68,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,397 |
 * [git-exfiltrate](#git-exfiltrate)
 * [git-spend](#git-spend)
 
-## [git-extras](https://github.com/tj/git-extras) ⭐ 18,130 | 🐛 92 | 🌐 Shell | 📅 2026-11-11
+## [git-extras](https://github.com/tj/git-extras) ⭐ 18,129 | 🐛 92 | 🌐 Shell | 📅 2026-11-11
 
 ### squash
 
@@ -584,7 +584,7 @@ master    fast-forwarding...
 returning to 4.0
 ```
 
-## [hub](https://github.com/github/hub) ⭐ 22,956 | 🐛 294 | 🌐 Go | 📅 2024-02-02
+## [hub](https://github.com/github/hub) ⭐ 22,957 | 🐛 294 | 🌐 Go | 📅 2024-02-02
 
 ### clone
 
@@ -1111,7 +1111,7 @@ $ git issue show [Tab]
 e6a95c9 - New issue entered from the command line
 ```
 
-## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,589 | 🐛 507 | 🌐 Go | 📅 2026-11-06
+## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,592 | 🐛 508 | 🌐 Go | 📅 2026-11-06
 
 ```
 $ git lfs track "*.mp3"
@@ -1212,7 +1212,7 @@ iter commit  tree    result
 0001 10ed389 434370f pass
 ```
 
-## [legit](https://github.com/kennethreitz/legit) ⭐ 5,679 | 🐛 8 | 🌐 Python | 📅 2023-10-09
+## [legit](https://github.com/kennethreitz/legit) ⭐ 5,678 | 🐛 8 | 🌐 Python | 📅 2023-10-09
 
 ### branches
 
@@ -1438,7 +1438,7 @@ Branch fire-master-maochenyan@gmail.com-1451379915 set up to track remote branch
 Leave building!
 ```
 
-## [Git Town](https://github.com/git-town/git-town) ⭐ 3,395 | 🐛 58 | 🌐 Gherkin | 📅 2026-11-12
+## [Git Town](https://github.com/git-town/git-town) ⭐ 3,395 | 🐛 57 | 🌐 Gherkin | 📅 2026-11-12
 
 ### git hack
 
@@ -1522,14 +1522,14 @@ open <url to create pull request for current branch>
 Deleted branch my-branch (was 55cb0f7).
 ```
 
-## [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,729 | 🐛 21 | 🌐 Shell | 📅 2023-12-04
+## [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) ⭐ 11,726 | 🐛 21 | 🌐 Shell | 📅 2023-12-04
 
 ```
 $ git blame-someone-else 'Steve Mao <maochenyan@gmail.com>' 2efb4e3a061a2e8aaa58033e9c13c3e0e5fcde4b
 Steve Mao  is now the author of 2efb4e3. You're officially an asshole.
 ```
 
-## [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,116 | 🐛 2 | 🌐 Perl | 📅 2026-10-18
+## [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) ⭐ 18,118 | 🐛 2 | 🌐 Perl | 📅 2026-10-18
 
 ```
 $ git dsf
@@ -1541,7 +1541,7 @@ $ git dsf
 
 ![](http://i.imgur.com/PpM0i3v.png)
 
-## [git-secret](https://github.com/sobolevn/git-secret) ⭐ 4,057 | 🐛 152 | 🌐 Shell | 📅 2026-09-28
+## [git-secret](https://github.com/sobolevn/git-secret) ⭐ 4,058 | 🐛 152 | 🌐 Shell | 📅 2026-09-28
 
 ### git secret init
 
@@ -1716,7 +1716,7 @@ $ git recall -f
 # Fetch commits beforehand.
 ```
 
-## [git-standup](https://github.com/kamranahmedse/git-standup) ⭐ 7,856 | 🐛 24 | 🌐 Shell | 📅 2025-07-07
+## [git-standup](https://github.com/kamranahmedse/git-standup) ⭐ 7,855 | 🐛 24 | 🌐 Shell | 📅 2025-07-07
 
 ```
 $ git standup
@@ -1907,7 +1907,7 @@ Currently there will be no output in case of success
 
 TBD - PR Welcome!
 
-## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,512 | 🐛 113 | 🌐 Python | 📅 2026-07-09
+## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,515 | 🐛 113 | 🌐 Python | 📅 2026-07-09
 
 TBD - PR Welcome!
 
@@ -2036,4 +2036,4 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
