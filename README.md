@@ -9,7 +9,7 @@ Something awesome happens!
 
 > *“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)*
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,473 | 🐛 104 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,960 | 🐛 104 | 📅 2026-09-02 list thing.
 
 **Note**: Certain commands may not function immediately after installation. You may need to run a post-install script or manually configure aliases for them to work correctly.
 
@@ -68,7 +68,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,473 |
 * [git-exfiltrate](#git-exfiltrate)
 * [git-spend](#git-spend)
 
-## [git-extras](https://github.com/tj/git-extras) ⭐ 18,127 | 🐛 93 | 🌐 Shell | 📅 2026-11-11
+## [git-extras](https://github.com/tj/git-extras) ⭐ 18,127 | 🐛 94 | 🌐 Shell | 📅 2026-11-11
 
 ### squash
 
@@ -777,7 +777,7 @@ pre-commit/bsd 	- Check for the BSD license.
 /GitHub/git-hooks/.githooks:
 ```
 
-## [git-imerge](https://github.com/mhagger/git-imerge) ⭐ 2,850 | 🐛 79 | 🌐 Python | 📅 2024-07-17
+## [git-imerge](https://github.com/mhagger/git-imerge) ⭐ 2,851 | 🐛 79 | 🌐 Python | 📅 2024-07-17
 
 ### imerge start
 
@@ -1111,7 +1111,7 @@ $ git issue show [Tab]
 e6a95c9 - New issue entered from the command line
 ```
 
-## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,596 | 🐛 510 | 🌐 Go | 📅 2026-11-06
+## [git-lfs](https://github.com/github/git-lfs) ⭐ 14,595 | 🐛 511 | 🌐 Go | 📅 2026-11-06
 
 ```
 $ git lfs track "*.mp3"
@@ -1277,7 +1277,7 @@ $ git unpublish master
 Unpublishing master.
 ```
 
-## [git-when-merged](https://github.com/mhagger/git-when-merged) ⭐ 465 | 🐛 0 | 🌐 Python | 📅 2023-08-06
+## [git-when-merged](https://github.com/mhagger/git-when-merged) ⭐ 466 | 🐛 0 | 🌐 Python | 📅 2023-08-06
 
 ```
 $ git when-merged a2c9e695ecf3600f21fa731e705fd1a0503632d9
@@ -1302,7 +1302,7 @@ $ git branch-status
  master    [current branch]                   [1 ahead of origin/master]
 ```
 
-## [git-open](https://github.com/paulirish/git-open) ⭐ 3,456 | 🐛 52 | 🌐 Shell | 📅 2026-05-25
+## [git-open](https://github.com/paulirish/git-open) ⭐ 3,457 | 🐛 52 | 🌐 Shell | 📅 2026-05-25
 
 ```
 $ git open
@@ -1438,7 +1438,7 @@ Branch fire-master-maochenyan@gmail.com-1451379915 set up to track remote branch
 Leave building!
 ```
 
-## [Git Town](https://github.com/git-town/git-town) ⭐ 3,397 | 🐛 59 | 🌐 Gherkin | 📅 2026-11-13
+## [Git Town](https://github.com/git-town/git-town) ⭐ 3,398 | 🐛 58 | 🌐 Gherkin | 📅 2026-11-14
 
 ### git hack
 
@@ -1593,7 +1593,7 @@ File `hideme.txt' exists. Overwrite? (y/N) y
 done. all 1 files are revealed.
 ```
 
-## [git-secrets](https://github.com/awslabs/git-secrets) ⭐ 13,442 | 🐛 131 | 🌐 Shell | 📅 2025-09-17
+## [git-secrets](https://github.com/awslabs/git-secrets) ⭐ 13,443 | 🐛 131 | 🌐 Shell | 📅 2025-09-17
 
 > Prevents you from committing passwords and other sensitive information to a git repository.
 
@@ -1731,7 +1731,7 @@ a1097116 - add versioning to readme (14 hours ago) <Steve Mao>
 6b6e7465 - add test coverage (15 hours ago) <Steve Mao>
 ```
 
-## [commitizen](https://github.com/commitizen/cz-cli) ⭐ 17,502 | 🐛 195 | 🌐 JavaScript | 📅 2026-09-25
+## [commitizen](https://github.com/commitizen/cz-cli) ⭐ 17,504 | 🐛 195 | 🌐 JavaScript | 📅 2026-09-25
 
 ```
 $ git cz
@@ -1907,7 +1907,7 @@ Currently there will be no output in case of success
 
 TBD - PR Welcome!
 
-## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,520 | 🐛 113 | 🌐 Python | 📅 2026-07-09
+## [filter-repo](https://github.com/newren/git-filter-repo) ⭐ 13,522 | 🐛 113 | 🌐 Python | 📅 2026-07-09
 
 TBD - PR Welcome!
 
@@ -2036,4 +2036,4 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
