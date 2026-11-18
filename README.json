@@ -18,7 +18,7 @@
             "open_issues": 92,
             "owner": "tj",
             "repo": "git-extras",
-            "stars": 18129,
+            "stars": 18130,
             "topics": [
               "git"
             ]
@@ -88,7 +88,7 @@
             "open_issues": 294,
             "owner": "mislav",
             "repo": "hub",
-            "stars": 22956,
+            "stars": 22957,
             "topics": [
               "git",
               "github-api",
@@ -181,7 +181,7 @@
             "open_issues": 79,
             "owner": "mhagger",
             "repo": "git-imerge",
-            "stars": 2850,
+            "stars": 2851,
             "topics": [
               "git",
               "merge-conflicts",
@@ -206,7 +206,7 @@
             "open_issues": 25,
             "owner": "dspinellis",
             "repo": "git-issue",
-            "stars": 886,
+            "stars": 888,
             "topics": [
               "git",
               "issue-management",
@@ -231,7 +231,7 @@
             "open_issues": 513,
             "owner": "git-lfs",
             "repo": "git-lfs",
-            "stars": 14599,
+            "stars": 14600,
             "topics": [
               "git",
               "git-lfs",
@@ -416,7 +416,7 @@
             "open_issues": 52,
             "owner": "paulirish",
             "repo": "git-open",
-            "stars": 3459,
+            "stars": 3460,
             "topics": [
               "bitbucket",
               "git",
@@ -536,11 +536,11 @@
             "id": 19825320,
             "language": "Gherkin",
             "license": "MIT",
-            "last_commit": "2026-11-16T13:37:44Z",
+            "last_commit": "2026-11-17T13:01:29Z",
             "open_issues": 56,
             "owner": "git-town",
             "repo": "git-town",
-            "stars": 3399,
+            "stars": 3400,
             "topics": [
               "command-line",
               "git",
@@ -567,7 +567,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11729,
+            "stars": 11730,
             "topics": []
           },
           "title": "git-blame-someone-else",
@@ -588,7 +588,7 @@
             "open_issues": 2,
             "owner": "so-fancy",
             "repo": "diff-so-fancy",
-            "stars": 18124,
+            "stars": 18125,
             "topics": [
               "diff",
               "diff-highlight",
@@ -671,7 +671,7 @@
             "open_issues": 131,
             "owner": "awslabs",
             "repo": "git-secrets",
-            "stars": 13445,
+            "stars": 13446,
             "topics": []
           },
           "title": "git-secrets",
@@ -740,7 +740,7 @@
             "open_issues": 32,
             "owner": "MitMaro",
             "repo": "git-interactive-rebase-tool",
-            "stars": 1884,
+            "stars": 1883,
             "topics": [
               "cross-platform",
               "editor",
@@ -908,7 +908,7 @@
             "open_issues": 24,
             "owner": "nilbuild",
             "repo": "git-standup",
-            "stars": 7854,
+            "stars": 7856,
             "topics": [
               "agile",
               "git",
@@ -937,7 +937,7 @@
             "open_issues": 195,
             "owner": "commitizen",
             "repo": "cz-cli",
-            "stars": 17505,
+            "stars": 17503,
             "topics": [
               "command-line",
               "commit-hooks",
@@ -1068,7 +1068,7 @@
             "open_issues": 113,
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13531,
+            "stars": 13534,
             "topics": []
           },
           "title": "filter-repo",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T03:43:21.430Z",
+    "last_updated": "2026-11-18T02:50:50.361Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
@@ -1185,7 +1185,7 @@
       "open_issues": 20,
       "owner": "stevemao",
       "repo": "awesome-git-addons",
-      "stars": 2216,
+      "stars": 2217,
       "topics": [
         "add-on",
         "add-ons",
