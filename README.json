@@ -14,11 +14,11 @@
             "id": 817345,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-18T06:00:11Z",
-            "open_issues": 92,
+            "last_commit": "2026-11-19T08:16:04Z",
+            "open_issues": 93,
             "owner": "tj",
             "repo": "git-extras",
-            "stars": 18130,
+            "stars": 18127,
             "topics": [
               "git"
             ]
@@ -41,7 +41,7 @@
             "open_issues": 171,
             "owner": "petervanderdoes",
             "repo": "gitflow-avh",
-            "stars": 5441,
+            "stars": 5440,
             "topics": [
               "git",
               "git-flow",
@@ -67,7 +67,7 @@
             "open_issues": 36,
             "owner": "aanand",
             "repo": "git-up",
-            "stars": 2582,
+            "stars": 2583,
             "topics": []
           },
           "title": "git-up",
@@ -181,7 +181,7 @@
             "open_issues": 79,
             "owner": "mhagger",
             "repo": "git-imerge",
-            "stars": 2851,
+            "stars": 2853,
             "topics": [
               "git",
               "merge-conflicts",
@@ -231,7 +231,7 @@
             "open_issues": 513,
             "owner": "git-lfs",
             "repo": "git-lfs",
-            "stars": 14603,
+            "stars": 14605,
             "topics": [
               "git",
               "git-lfs",
@@ -327,7 +327,7 @@
             "open_issues": 8,
             "owner": "frostming",
             "repo": "legit",
-            "stars": 5677,
+            "stars": 5675,
             "topics": [
               "cli",
               "git",
@@ -353,7 +353,7 @@
             "open_issues": 0,
             "owner": "mhagger",
             "repo": "git-when-merged",
-            "stars": 466,
+            "stars": 465,
             "topics": []
           },
           "title": "git-when-merged",
@@ -416,7 +416,7 @@
             "open_issues": 52,
             "owner": "paulirish",
             "repo": "git-open",
-            "stars": 3461,
+            "stars": 3460,
             "topics": [
               "bitbucket",
               "git",
@@ -516,7 +516,7 @@
             "open_issues": 15,
             "owner": "qw3rtman",
             "repo": "git-fire",
-            "stars": 4541,
+            "stars": 4540,
             "topics": [
               "emergency",
               "git"
@@ -540,7 +540,7 @@
             "open_issues": 56,
             "owner": "git-town",
             "repo": "git-town",
-            "stars": 3401,
+            "stars": 3402,
             "topics": [
               "command-line",
               "git",
@@ -567,7 +567,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11732,
+            "stars": 11731,
             "topics": []
           },
           "title": "git-blame-someone-else",
@@ -588,7 +588,7 @@
             "open_issues": 2,
             "owner": "so-fancy",
             "repo": "diff-so-fancy",
-            "stars": 18125,
+            "stars": 18124,
             "topics": [
               "diff",
               "diff-highlight",
@@ -616,7 +616,7 @@
             "open_issues": 5,
             "owner": "IonicaBizau",
             "repo": "git-stats",
-            "stars": 6596,
+            "stars": 6595,
             "topics": [
               "calendar",
               "contributions-calendar",
@@ -643,7 +643,7 @@
             "open_issues": 152,
             "owner": "sobolevn",
             "repo": "git-secret",
-            "stars": 4060,
+            "stars": 4059,
             "topics": [
               "encryption",
               "git",
@@ -671,7 +671,7 @@
             "open_issues": 131,
             "owner": "awslabs",
             "repo": "git-secrets",
-            "stars": 13446,
+            "stars": 13447,
             "topics": []
           },
           "title": "git-secrets",
@@ -719,7 +719,7 @@
             "open_issues": 6,
             "owner": "paulirish",
             "repo": "git-recent",
-            "stars": 1046,
+            "stars": 1045,
             "topics": []
           },
           "title": "git-recent",
@@ -740,7 +740,7 @@
             "open_issues": 32,
             "owner": "MitMaro",
             "repo": "git-interactive-rebase-tool",
-            "stars": 1884,
+            "stars": 1883,
             "topics": [
               "cross-platform",
               "editor",
@@ -813,7 +813,7 @@
             "open_issues": 66,
             "owner": "donnemartin",
             "repo": "gitsome",
-            "stars": 7696,
+            "stars": 7695,
             "topics": [
               "cli",
               "cli-app",
@@ -855,7 +855,7 @@
             "open_issues": 3,
             "owner": "ezekg",
             "repo": "git-hound",
-            "stars": 314,
+            "stars": 313,
             "topics": [
               "cli",
               "git",
@@ -937,7 +937,7 @@
             "open_issues": 195,
             "owner": "commitizen",
             "repo": "cz-cli",
-            "stars": 17504,
+            "stars": 17502,
             "topics": [
               "command-line",
               "commit-hooks",
@@ -1068,7 +1068,7 @@
             "open_issues": 113,
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13539,
+            "stars": 13541,
             "topics": []
           },
           "title": "filter-repo",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T02:29:06.309Z",
+    "last_updated": "2026-11-20T02:14:12.880Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
@@ -1185,7 +1185,7 @@
       "open_issues": 20,
       "owner": "stevemao",
       "repo": "awesome-git-addons",
-      "stars": 2217,
+      "stars": 2216,
       "topics": [
         "add-on",
         "add-ons",
