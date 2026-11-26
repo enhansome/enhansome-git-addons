@@ -15,10 +15,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-11-25T03:45:00Z",
-            "open_issues": 91,
+            "open_issues": 93,
             "owner": "tj",
             "repo": "git-extras",
-            "stars": 18132,
+            "stars": 18133,
             "topics": [
               "git"
             ]
@@ -88,7 +88,7 @@
             "open_issues": 294,
             "owner": "mislav",
             "repo": "hub",
-            "stars": 22958,
+            "stars": 22959,
             "topics": [
               "git",
               "github-api",
@@ -136,7 +136,7 @@
             "open_issues": 18,
             "owner": "k4rthik",
             "repo": "git-cal",
-            "stars": 1123,
+            "stars": 1124,
             "topics": []
           },
           "title": "git-cal",
@@ -181,7 +181,7 @@
             "open_issues": 79,
             "owner": "mhagger",
             "repo": "git-imerge",
-            "stars": 2852,
+            "stars": 2851,
             "topics": [
               "git",
               "merge-conflicts",
@@ -228,10 +228,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-11-23T20:09:11Z",
-            "open_issues": 519,
+            "open_issues": 522,
             "owner": "git-lfs",
             "repo": "git-lfs",
-            "stars": 14620,
+            "stars": 14625,
             "topics": [
               "git",
               "git-lfs",
@@ -416,7 +416,7 @@
             "open_issues": 52,
             "owner": "paulirish",
             "repo": "git-open",
-            "stars": 3464,
+            "stars": 3466,
             "topics": [
               "bitbucket",
               "git",
@@ -537,10 +537,10 @@
             "language": "Gherkin",
             "license": "MIT",
             "last_commit": "2026-11-20T15:14:55Z",
-            "open_issues": 56,
+            "open_issues": 57,
             "owner": "git-town",
             "repo": "git-town",
-            "stars": 3403,
+            "stars": 3405,
             "topics": [
               "command-line",
               "git",
@@ -567,7 +567,7 @@
             "open_issues": 21,
             "owner": "jayphelps",
             "repo": "git-blame-someone-else",
-            "stars": 11730,
+            "stars": 11728,
             "topics": []
           },
           "title": "git-blame-someone-else",
@@ -588,7 +588,7 @@
             "open_issues": 3,
             "owner": "so-fancy",
             "repo": "diff-so-fancy",
-            "stars": 18124,
+            "stars": 18127,
             "topics": [
               "diff",
               "diff-highlight",
@@ -740,7 +740,7 @@
             "open_issues": 32,
             "owner": "MitMaro",
             "repo": "git-interactive-rebase-tool",
-            "stars": 1883,
+            "stars": 1884,
             "topics": [
               "cross-platform",
               "editor",
@@ -883,7 +883,7 @@
             "open_issues": 7,
             "owner": "Fakerr",
             "repo": "git-recall",
-            "stars": 2106,
+            "stars": 2105,
             "topics": [
               "command-line",
               "git",
@@ -937,7 +937,7 @@
             "open_issues": 195,
             "owner": "commitizen",
             "repo": "cz-cli",
-            "stars": 17503,
+            "stars": 17504,
             "topics": [
               "command-line",
               "commit-hooks",
@@ -1068,7 +1068,7 @@
             "open_issues": 114,
             "owner": "newren",
             "repo": "git-filter-repo",
-            "stars": 13554,
+            "stars": 13560,
             "topics": []
           },
           "title": "filter-repo",
@@ -1173,7 +1173,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T04:05:32.419Z",
+    "last_updated": "2026-11-26T03:29:00.021Z",
     "original_repository_info": {
       "archived": false,
       "description": ":sunglasses: A curated list of add-ons that extend/enhance the git CLI.",
